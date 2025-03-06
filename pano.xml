@@ -1,0 +1,1874 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="7.1.6" start="node4" apprev="20966" hassounds="0">
+  <panorama id="node4">
+    <input height="1824" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="1824" levelbias="0.400" overlap="1" levelingpitch="2.2246199999999998" leveltilesize="510" levelingroll="-2.0943499999999999">
+      <level height="1824" width="1824" preload="0" predecode="0"/>
+      <level height="912" width="912" preload="0" predecode="0"/>
+      <level height="456" width="456" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="366.201" fovmode="2">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" fov="140" pan="360" fovstereographic="330"/>
+    </view>
+    <userdata info="" nodeid="node4" datetime="4.01.2025 10:09" author="" copyright="" comment="" description="" source="" latitude="38.37119068" heading="366.201" tags="" longitude="34.04086679" customnodeid="" title="Ön _Bahçe"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label height="20" textalpha="1" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" border="1" textcolor="0x000000" width="180" borderalpha="1" background="1" borderradius="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot skinid="ht_node" description="" target="1.7/-13.4/157.2" id="Point01" tilt="9.27" url="{node5}" pan="-359.91" title=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" zoomout="0" enabled="1" zoomspeed="2" delay="none" softedge="0" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" blendtime="1"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" contextfullscreen="1" speedwheel="1" sensitivity="8" invertwheel="0" zoomcentercursor="1" rubberband="0" contextvr="1" contextprojections="0" hideabout="0" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node1">
+    <input height="1824" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="1824" levelbias="0.400" overlap="1" levelingpitch="0" leveltilesize="510" levelingroll="0">
+      <level height="1824" width="1824" preload="0" predecode="0"/>
+      <level height="912" width="912" preload="0" predecode="0"/>
+      <level height="456" width="456" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="86.4045" fovmode="2">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" fov="140" pan="360" fovstereographic="330"/>
+    </view>
+    <userdata info="" nodeid="node1" datetime="4.01.2025 10:12" author="" copyright="" comment="" description="" source="" latitude="38.37144092" heading="86.4045" tags="" longitude="34.04073000" customnodeid="" title="Sol_ Yan_ Bahçe"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label height="20" textalpha="1" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" border="1" textcolor="0x000000" width="180" borderalpha="1" background="1" borderradius="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" zoomout="0" enabled="1" zoomspeed="2" delay="none" softedge="0" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" blendtime="1"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" contextfullscreen="1" speedwheel="1" sensitivity="8" invertwheel="0" zoomcentercursor="1" rubberband="0" contextvr="1" contextprojections="0" hideabout="0" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input height="1824" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="1824" levelbias="0.400" overlap="1" levelingpitch="0" leveltilesize="510" levelingroll="0">
+      <level height="1824" width="1824" preload="0" predecode="0"/>
+      <level height="912" width="912" preload="0" predecode="0"/>
+      <level height="456" width="456" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="88.6054" fovmode="2">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" fov="140" pan="360" fovstereographic="330"/>
+    </view>
+    <userdata info="" nodeid="node3" datetime="4.01.2025 10:13" author="" copyright="" comment="" description="" source="" latitude="38.37157550" heading="88.6054" tags="" longitude="34.04088557" customnodeid="" title="Arka_ Bahçe"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label height="20" textalpha="1" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" border="1" textcolor="0x000000" width="180" borderalpha="1" background="1" borderradius="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" zoomout="0" enabled="1" zoomspeed="2" delay="none" softedge="0" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" blendtime="1"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" contextfullscreen="1" speedwheel="1" sensitivity="8" invertwheel="0" zoomcentercursor="1" rubberband="0" contextvr="1" contextprojections="0" hideabout="0" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input height="1824" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="1824" levelbias="0.400" overlap="1" levelingpitch="0" leveltilesize="510" levelingroll="0">
+      <level height="1824" width="1824" preload="0" predecode="0"/>
+      <level height="912" width="912" preload="0" predecode="0"/>
+      <level height="456" width="456" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-176.588" fovmode="2">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" fov="140" pan="360" fovstereographic="330"/>
+    </view>
+    <userdata info="" nodeid="node2" datetime="4.01.2025 10:15" author="" copyright="" comment="" description="" source="" latitude="38.37141989" heading="-176.588" tags="" longitude="34.04098481" customnodeid="" title="Sağ_Yan_ Bahçe"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label height="20" textalpha="1" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" border="1" textcolor="0x000000" width="180" borderalpha="1" background="1" borderradius="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" zoomout="0" enabled="1" zoomspeed="2" delay="none" softedge="0" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" blendtime="1"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" contextfullscreen="1" speedwheel="1" sensitivity="8" invertwheel="0" zoomcentercursor="1" rubberband="0" contextvr="1" contextprojections="0" hideabout="0" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input height="1824" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="1824" levelbias="0.400" overlap="1" levelingpitch="0" leveltilesize="510" levelingroll="0">
+      <level height="1824" width="1824" preload="0" predecode="0"/>
+      <level height="912" width="912" preload="0" predecode="0"/>
+      <level height="456" width="456" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-0.683775" fovmode="2">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" fov="140" pan="360" fovstereographic="330"/>
+    </view>
+    <userdata info="" nodeid="node5" datetime="4.01.2025 10:10" author="" copyright="" comment="" description="" source="" latitude="" heading="-0.683775" tags="" longitude="" customnodeid="" title="Giriş">
+      <mapcoords mapid="FloorPlan01" y_floorplan_percent="69.7954" x_floorplan_percent="66.3918" x="1.7688" y="-1.59302"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label height="20" textalpha="1" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" border="1" textcolor="0x000000" width="180" borderalpha="1" background="1" borderradius="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <polyhotspot backgroundalpha="0.25098" bordercolor="0x000000" url="" backgroundcolor="0x0000ff" target="" description="" borderalpha="1" id="Poly01" title="Danışma">
+        <polystring>-229.43/-13.95|-284.74/-17.82|-285.96/22.47|-228.18/19.95</polystring>
+      </polyhotspot>
+      <hotspot skinid="ht_node" description="" target="-7.2/-27.1/157.2" id="Point01" tilt="1.33" url="{node7}" pan="-357.94" title=""/>
+      <hotspot skinid="ht_node" description="" target="10.0/-4.6/157.2" id="Point02" tilt="9.24" url="{node22}" pan="-82.46" title=""/>
+      <hotspot skinid="ht_node" description="" target="-6.0/-5.2/155.4" id="Point03" tilt="3.04" url="{node9}" pan="-260.77" title=""/>
+      <hotspot skinid="ht_node" description="" target="-177.5/-11.7/126.6" id="Point04" tilt="-1.64" url="{node4}" pan="-173.65" title=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" zoomout="0" enabled="1" zoomspeed="2" delay="none" softedge="0" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" blendtime="1"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" contextfullscreen="1" speedwheel="1" sensitivity="8" invertwheel="0" zoomcentercursor="1" rubberband="0" contextvr="1" contextprojections="0" hideabout="0" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input height="1824" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="1824" levelbias="0.400" overlap="1" levelingpitch="0" leveltilesize="510" levelingroll="0">
+      <level height="1824" width="1824" preload="0" predecode="0"/>
+      <level height="912" width="912" preload="0" predecode="0"/>
+      <level height="456" width="456" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-0.686633" fovmode="2">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" fov="140" pan="360" fovstereographic="330"/>
+    </view>
+    <userdata info="" nodeid="node7" datetime="4.01.2025 09:50" author="" copyright="" comment="" description="" source="" latitude="" heading="-0.686633" tags="" longitude="" customnodeid="" title="Bahçe_Giriş">
+      <mapcoords mapid="FloorPlan01" y_floorplan_percent="39.4705" x_floorplan_percent="49.4845" x="1.31836" y="-0.900879"/>
+      <mapcoords mapid="FloorPlan02" y_floorplan_percent="62.0939" x_floorplan_percent="62.268" x="1.65894" y="-1.41724"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label height="20" textalpha="1" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" border="1" textcolor="0x000000" width="180" borderalpha="1" background="1" borderradius="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot skinid="ht_node" description="" target="-176.0/-13.0/157.2" id="Point01" tilt="-0.11" url="{node5}" pan="-186.37" title=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" zoomout="0" enabled="1" zoomspeed="2" delay="none" softedge="0" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" blendtime="1"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" contextfullscreen="1" speedwheel="1" sensitivity="8" invertwheel="0" zoomcentercursor="1" rubberband="0" contextvr="1" contextprojections="0" hideabout="0" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input height="1824" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="1824" levelbias="0.400" overlap="1" levelingpitch="0" leveltilesize="510" levelingroll="0">
+      <level height="1824" width="1824" preload="0" predecode="0"/>
+      <level height="912" width="912" preload="0" predecode="0"/>
+      <level height="456" width="456" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-88.6281" fovmode="2">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" fov="140" pan="360" fovstereographic="330"/>
+    </view>
+    <userdata info="" nodeid="node9" datetime="4.01.2025 09:53" author="" copyright="" comment="" description="" source="" latitude="" heading="-88.6281" tags="" longitude="" customnodeid="" title="Sol_ Giriş1">
+      <mapcoords mapid="FloorPlan01" y_floorplan_percent="79.4224" x_floorplan_percent="50.7216" x="1.35132" y="-1.81274"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label height="20" textalpha="1" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" border="1" textcolor="0x000000" width="180" borderalpha="1" background="1" borderradius="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <polyhotspot target="" description="" id="Poly01" url="" title="Danışma">
+        <polystring>-242.39/31.7|-242.75/-57.16|-208.22/-43.57|-209.52/20.19</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly02" url="" title="Depo 3">
+        <polystring>-301.18/28.39|-326.75/17.53|-324.76/-43.16|-296.96/-57.33</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly03" url="" title="Teknik Oda Depo">
+        <polystring>-353.62/17.22|-22.45/15.06|-22.3/-41.92|-352.13/-44.08</polystring>
+      </polyhotspot>
+      <hotspot skinid="ht_node" description="" target="-51.8/-13.8/157.2" id="Point01" tilt="-4.03" url="{node10}" pan="-45.26" title=""/>
+      <hotspot skinid="ht_node" description="" target="-108.5/-3.2/157.2" id="Point02" tilt="0.5" url="{node5}" pan="-176.18" title=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" zoomout="0" enabled="1" zoomspeed="2" delay="none" softedge="0" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" blendtime="1"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" contextfullscreen="1" speedwheel="1" sensitivity="8" invertwheel="0" zoomcentercursor="1" rubberband="0" contextvr="1" contextprojections="0" hideabout="0" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input height="1824" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="1824" levelbias="0.400" overlap="1" levelingpitch="0" leveltilesize="510" levelingroll="0">
+      <level height="1824" width="1824" preload="0" predecode="0"/>
+      <level height="912" width="912" preload="0" predecode="0"/>
+      <level height="456" width="456" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-92.7466" fovmode="2">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" fov="140" pan="360" fovstereographic="330"/>
+    </view>
+    <userdata info="" nodeid="node10" datetime="4.01.2025 09:55" author="" copyright="" comment="" description="" source="" latitude="" heading="-92.7466" tags="" longitude="" customnodeid="" title="Sol_Giriş2">
+      <mapcoords mapid="FloorPlan01" y_floorplan_percent="76.0529" x_floorplan_percent="35.0515" x="0.933838" y="-1.73584"/>
+      <mapcoords mapid="FloorPlan02" y_floorplan_percent="77.9783" x_floorplan_percent="34.2268" x="0.911865" y="-1.77979"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label height="20" textalpha="1" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" border="1" textcolor="0x000000" width="180" borderalpha="1" background="1" borderradius="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot skinid="ht_node" description="" target="3.4/-19.7/157.2" id="Point01" tilt="-0.4" url="{node11}" pan="-101.33" title=""/>
+      <hotspot skinid="ht_node" description="" target="105.0/-3.1/157.2" id="Point02" tilt="-0.95" url="{node9}" pan="-261.38" title=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" zoomout="0" enabled="1" zoomspeed="2" delay="none" softedge="0" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" blendtime="1"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" contextfullscreen="1" speedwheel="1" sensitivity="8" invertwheel="0" zoomcentercursor="1" rubberband="0" contextvr="1" contextprojections="0" hideabout="0" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node11">
+    <input height="1824" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="1824" levelbias="0.400" overlap="1" levelingpitch="0" leveltilesize="510" levelingroll="0">
+      <level height="1824" width="1824" preload="0" predecode="0"/>
+      <level height="912" width="912" preload="0" predecode="0"/>
+      <level height="456" width="456" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" fov="140" pan="360" fovstereographic="330"/>
+    </view>
+    <userdata info="" nodeid="node11" datetime="4.01.2025 09:56" author="" copyright="" comment="" description="" source="" latitude="" heading="0" tags="" longitude="" customnodeid="" title="Sol_Giriş3">
+      <mapcoords mapid="FloorPlan01" y_floorplan_percent="57.2804" x_floorplan_percent="19.7938" x="0.527344" y="-1.30737"/>
+      <mapcoords mapid="FloorPlan02" y_floorplan_percent="49.0975" x_floorplan_percent="14.8454" x="0.395508" y="-1.12061"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label height="20" textalpha="1" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" border="1" textcolor="0x000000" width="180" borderalpha="1" background="1" borderradius="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot skinid="ht_node" description="" target="3.9/-2.2/157.2" id="Point01" tilt="-0.59" url="{node12}" pan="-356.76" title=""/>
+      <hotspot skinid="ht_node" description="" target="42.9/-2.7/157.2" id="Point02" tilt="-2.43" url="{node10}" pan="-160.39" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point03" tilt="-38.48" url="images/1-1.jpeg" pan="-218.57" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point04" tilt="-33.27" url="images/2-1.jpeg" pan="-225.79" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point05" tilt="-38.39" url="images/3-1.jpeg" pan="-284.75" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point06" tilt="-26.58" url="images/4 1.jpeg" pan="-320.01" title=""/>
+      <hotspot skinid="ht_image_1" description="" target="_blank" id="Point07" tilt="-18.56" url="images/5-1.jpeg" pan="-332.46" title=""/>
+      <hotspot skinid="ht_image_1" description="" target="_blank" id="Point08" tilt="-13.71" url="images/6-1.jpeg" pan="-338.76" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point09" tilt="-22.87" url="images/WhatsApp Image 2025-02-03 at 22.53.44.jpeg" pan="-307.91" title=""/>
+      <polyhotspot target="" description="" id="Poly01" url="" title="Gökhan Delen ">
+        <polystring>-108.76/18.03|-125.3/15.8|-125.35/-8.81|-109/-10.79</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly02" url="" title="Faruk Eser">
+        <polystring>-93.64/31.48|-103.85/30.73|-103.97/18.01|-93.02/18.6</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly03" url="" title="Lokman Akçağlayan ">
+        <polystring>-96.91/16.12|-103.96/15.76|-103.92/6.45|-96.77/6.46</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly04" url="" title="Sergen Güçlüer ">
+        <polystring>-90.88/14.21|-95.63/14.34|-95.3/6.81|-90.42/6.73</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly05" url="" title="Tunahan Erbaşı">
+        <polystring>-90.99/3.68|-104.27/3.17|-103.68/-6.21|-90.04/-6.12</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly06" url="" title="Şahin Sarılmaz ">
+        <polystring>-76.82/0.74|-87.85/0.61|-87.23/-14.74|-76.61/-14.05</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly07" url="" title="Kadir Yıldız">
+        <polystring>-76.19/17.85|-87.42/18.13|-87.65/2.93|-76.45/3.08</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly08" url="" title="Mikail Candan ">
+        <polystring>-76.56/31.08|-88.64/31.55|-88.64/19.88|-76.31/19.12</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly09" url="" title="Sinan Kunduracı">
+        <polystring>-41.33/25.8|-67.55/32.58|-68.11/9.11|-42.13/6.7</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly10" url="" title="Ayhan Demirel ">
+        <polystring>-42.03/3.23|-47.98/3.44|-48.43/-7.28|-42.36/-6.97</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly11" url="" title="Polat Özbek">
+        <polystring>-51.11/4.36|-59/4.77|-59.19/-7.23|-50.65/-7.12</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly12" url="" title="İsmail Yüksel">
+        <polystring>-63.77/4.88|-72.35/5.36|-72.32/-8.22|-63.51/-8.2</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly13" url="" title="Mustafa Ergen ">
+        <polystring>-64.57/-9.7|-72.34/-10.87|-71.77/-19.88|-64.04/-18.8</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly14" url="" title="Sefa Altınsoy">
+        <polystring>-50.82/-9.69|-60.92/-9.87|-61.13/-18.72|-50.94/-17.71</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly15" url="" title="Hamza Gümüşsoy">
+        <polystring>-24.85/16.5|-35.16/21.07|-34.94/-7.27|-24.33/-6.6</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly16" url="" title="Yunus Emre Akbaş">
+        <polystring>-24.8/-7.21|-28.28/-7.81|-28.37/-13.92|-24.78/-12.54</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly17" url="" title="Tugay Ülger">
+        <polystring>-31.01/-9.09|-36.6/-9.73|-36.36/-16.63|-30.96/-15.57</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly18" url="" title="Memiş Arıbaş">
+        <polystring>-176.53/9.42|-187.53/9.56|-190.41/-41.05|-178.62/-43.44</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly19" url="" title="Sefa Altınsoy">
+        <polystring>-197.26/-36.16|-203.15/-34.95|-206.69/-43.76|-200.52/-45.43</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly21" url="" title="Yalçın Sevindi">
+        <polystring>-220.89/5.17|-230.49/5|-228.98/-30.28|-221.43/-31.4</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly22" url="" title="Osmanlı Ordu Arması">
+        <polystring>-195.56/21.79|-213.98/19.1|-213.74/5.14|-195.13/5.49</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly23" url="" title="Yunus Emre Akbaş">
+        <polystring>-244.69/6.63|-257.08/6.33|-255.03/-35.89|-246.31/-36.08</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly24" url="" title="İsmail Yüksel">
+        <polystring>-262.4/-36.53|-270.67/-37.68|-268.84/-43|-262.14/-41.42</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly25" url="" title="Osmanlı Malatya Sancağı">
+        <polystring>-259.9/-8.3|-273.76/-9.31|-274.16/-19.28|-258.93/-18.23</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly26" url="" title="Osmanlı Gelibolu Sancağı">
+        <polystring>-271.52/6.81|-284.03/5.93|-283.69/-6.61|-270.67/-6.93|-270.69/-6.78</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly27" url="" title="Osmanlı Hilafet Sancağı">
+        <polystring>-257.66/19.71|-276.28/19.8|-276.44/8.35|-257.44/7.99</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly28" url="" title="Sefa Altınsoy">
+        <polystring>-292.96/6.21|-302.53/5.84|-301.81/-30.57|-294.59/-30.43</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly29" url="" title="Şehit Sefa Altınsoy">
+        <polystring>-300.43/-33.46|-303.15/-32.74|-306.1/-36.41|-302.55/-37.44</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly30" url="" title="Tugay Ülger ">
+        <polystring>-318.39/3|-322.7/3.08|-323.4/-22.5|-319.38/-23.61|-318.85/-23.34|-318.86/-23.66</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly31" url="" title="Osmanlı Amasya Vilayet Sancağı">
+        <polystring>-307.07/15.33|-313.15/13.77|-312.66/5.45|-306.03/6.15</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly32" url="" title="Osmanlı Hilafet Bayrağı">
+        <polystring>-306.06/3.42|-312.91/2.74|-312.64/-3.89|-305.26/-3.93</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly33" url="" title="Osmanlı İttihad-i İslam Sancağı">
+        <polystring>-305.8/-6.34|-312.71/-5.92|-312.92/-12.28|-306.23/-13.65</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" zoomout="0" enabled="1" zoomspeed="2" delay="none" softedge="0" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" blendtime="1"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" contextfullscreen="1" speedwheel="1" sensitivity="8" invertwheel="0" zoomcentercursor="1" rubberband="0" contextvr="1" contextprojections="0" hideabout="0" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node12">
+    <input height="1824" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="1824" levelbias="0.400" overlap="1" levelingpitch="0" leveltilesize="510" levelingroll="0">
+      <level height="1824" width="1824" preload="0" predecode="0"/>
+      <level height="912" width="912" preload="0" predecode="0"/>
+      <level height="456" width="456" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0.344981" fovmode="2">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" fov="140" pan="360" fovstereographic="330"/>
+    </view>
+    <userdata info="" nodeid="node12" datetime="4.01.2025 09:57" author="" copyright="" comment="" description="" source="" latitude="" heading="0.344981" tags="" longitude="" customnodeid="" title="Sol_Giriş4"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label height="20" textalpha="1" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" border="1" textcolor="0x000000" width="180" borderalpha="1" background="1" borderradius="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot skinid="ht_node" description="" target="0.0/0.0/157.2" id="Point01" tilt="-2.16" url="{node13}" pan="-355.19" title=""/>
+      <hotspot skinid="ht_node" description="" target="-176.9/-16.7/157.2" id="Point02" tilt="-5.63" url="{node11}" pan="-166.42" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point03" tilt="-20.87" url="images/1-1.jpeg" pan="-193.58" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point04" tilt="-20.58" url="images/2-1.jpeg" pan="-198.26" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point05" tilt="-30.43" url="images/3-1.jpeg" pan="-226.5" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point06" tilt="-28.43" url="images/WhatsApp Image 2025-02-03 at 22.53.44.jpeg" pan="-254.27" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point07" tilt="-39.14" url="images/4 1.jpeg" pan="-276.68" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point08" tilt="-28.38" url="images/5-1.jpeg" pan="-313.02" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point09" tilt="-20.38" url="images/6-1.jpeg" pan="-330.14" title=""/>
+      <polyhotspot target="" description="" id="Poly01" url="" title="Gökhan Delen">
+        <polystring>-146.64/8.63|-151.14/7.63|-150.95/-5.02|-146.65/-5.62</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly02" url="" title="Faruk Eser ">
+        <polystring>-142.56/17.04|-145/16.61|-145.11/9.71|-142.33/9.95</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly03" url="" title="Mikail Candan ">
+        <polystring>-137.24/18.82|-140.45/17.93|-140.58/10.85|-137.22/11.76</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly04" url="" title="Kadir Yıldız">
+        <polystring>-137.57/9.5|-140.75/9.29|-140.54/1.94|-137.73/1.77</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly05" url="" title="Lokman Akçağlayan ">
+        <polystring>-143.74/7.76|-145.23/7.32|-144.91/2.83|-143.7/3.25|-143.84/3.39</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly06" url="" title="Sergen Güçlüer">
+        <polystring>-141.68/7.16|-143.06/6.84|-142.84/2.98|-141.75/3.09</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly07" url="" title="Tunahan Erbaşı">
+        <polystring>-141.94/1.3|-145.36/0.99|-145.21/-3.7|-141.71/-3.74</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly08" url="" title="Şahin Sarılmaz">
+        <polystring>-137.26/-0.29|-141.14/-0.48|-140.6/-8.41|-137.44/-9.3</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly09" url="" title="Mustafa Ergen ">
+        <polystring>-132.09/-8.05|-135.36/-7.77|-135.16/-13.35|-131.51/-13.79</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly10" url="" title="Sefa Altınsoy">
+        <polystring>-121.72/-9.63|-129.52/-8.12|-129.56/-15.12|-122.13/-17.4</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly11" url="" title="İsmail Yüksel ">
+        <polystring>-131.29/3.13|-135.39/3.01|-135.64/-5.38|-131.45/-6.37</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly12" url="" title="Polat Özbek">
+        <polystring>-122.61/3.82|-128.24/3.25|-128.42/-6.22|-122.12/-6.96</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly13" url="" title="Ayhan Demirel">
+        <polystring>-113.01/3.51|-119.47/3.4|-119.27/-7.95|-112.91/-8.23</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly14" url="" title="Sinan Kunduracı">
+        <polystring>-113.47/28.58|-133.66/22.24|-133.47/6.85|-112.89/9.2</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly15" url="" title="Hamza Gümüşsoy">
+        <polystring>-66.98/30.31|-98.52/30.39|-99.33/-10.84|-66.7/-11.01</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly16" url="" title="Tugay Ülger ">
+        <polystring>-86.94/-14.82|-101.2/-14.2|-101.61/-23.57|-86.95/-24.64</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly17" url="" title="Yunus Emre Akbaş">
+        <polystring>-66.17/-13.58|-78.93/-14.56|-79.15/-23.73|-65.84/-22.83</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly18" url="" title="Muammer Özata ">
+        <polystring>-23.87/-15.77|-24.65/-12.72|-27.97/-14.08|-27.47/-17.84</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly19" url="" title="Memiş Arıbaş ">
+        <polystring>-174.04/3.24|-180.27/2.96|-180.06/-21.36|-176/-22.56</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly20" url="" title="Sefa Altınsoy">
+        <polystring>-183.47/-19.41|-186.69/-19.24|-187.39/-22.91|-184.48/-22.94</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly21" url="" title="Yalçın Sevindi">
+        <polystring>-198.06/2.89|-205.04/2.78|-203.16/-18.47|-199.59/-19.25</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly22" url="" title="Osmanlı Ordu Arması">
+        <polystring>-184.01/11.36|-194.48/10.9|-194.3/3.56|-184.33/3.13</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly23" url="" title="Yunus Emre Akbaş">
+        <polystring>-209.64/4.52|-216.4/4.36|-214.64/-23.72|-210.76/-23.58</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly24" url="" title="Osmanlı Hilafet Sancağı ">
+        <polystring>-218/13.87|-226.89/15.95|-227.45/7.8|-218/5.64</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly25" url="" title="Osmanlı Gelibolu Sancağı">
+        <polystring>-225.33/4.15|-233.09/4.98|-232.87/-5.23|-225.38/-5.49</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly26" url="" title="Osmanlı Malatya Sancağı">
+        <polystring>-218.59/-6.75|-226.78/-7.46|-226.28/-14.27|-218.92/-12.93</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly27" url="" title="İsmail Yüksel">
+        <polystring>-215.35/-26.23|-217.96/-28.15|-212.81/-29.05|-212.49/-27.2</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly28" url="" title="Sefa Altınsoy">
+        <polystring>-237.37/6.1|-249.01/7.02|-245.86/-34.68|-239.1/-32.95</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly29" url="" title="Şehit Sefa Altınsoy">
+        <polystring>-237.04/-35.42|-241.66/-36.85|-237.23/-41.25|-233.9/-38.48</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly30" url="" title="Osmanlı Amasya Vilayet Sancağı">
+        <polystring>-259.72/20.51|-273.05/20.32|-272.53/8.58|-259.14/7.71</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly31" url="" title="Osmanlı Hilafet Bayrağı">
+        <polystring>-259.26/4.97|-273.82/5.07|-273.14/-4.41|-258.57/-4.79</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly32" url="" title="Osmanlı İttihad-i İslam Sancağı">
+        <polystring>-259.29/-7.14|-273.3/-7.02|-273.77/-16.09|-259.19/-16.48</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly33" url="" title="Tugay Ülger ">
+        <polystring>-281.08/6.02|-293.02/5.79|-291.71/-33.8|-283.14/-35.27</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly34" url="" title="Yasin Öcal">
+        <polystring>-300.9/-31.2|-304.64/-31.18|-306.51/-34.12|-301.33/-35.49</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly35" url="" title="Mehmet Sevim">
+        <polystring>-316.54/-23.43|-319.15/-22.91|-321.63/-25.46|-317.62/-26.95</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly36" url="" title="Osmanlı Kastamonu Sancağı">
+        <polystring>-296.29/4.65|-303.97/4.07|-303.95/-4.99|-295.35/-6.01</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly37" url="" title="Osmanlı Ahi Sancağı">
+        <polystring>-306.59/3.64|-312.28/3.83|-312.2/-4.43|-306.82/-5.03</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly38" url="" title="Osmanlı Hilafet Sancağı">
+        <polystring>-300.84/-7.94|-308.71/-7.65|-308.24/-13.85|-300.5/-15.25</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly39" url="" title="Ayhan Demirel ">
+        <polystring>-317.55/3.37|-322.17/2.58|-321.34/-20.16|-318.6/-20.4</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" zoomout="0" enabled="1" zoomspeed="2" delay="none" softedge="0" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" blendtime="1"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" contextfullscreen="1" speedwheel="1" sensitivity="8" invertwheel="0" zoomcentercursor="1" rubberband="0" contextvr="1" contextprojections="0" hideabout="0" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node13">
+    <input height="1824" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="1824" levelbias="0.400" overlap="1" levelingpitch="0" leveltilesize="510" levelingroll="0">
+      <level height="1824" width="1824" preload="0" predecode="0"/>
+      <level height="912" width="912" preload="0" predecode="0"/>
+      <level height="456" width="456" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" fov="140" pan="360" fovstereographic="330"/>
+    </view>
+    <userdata info="" nodeid="node13" datetime="4.01.2025 09:59" author="" copyright="" comment="" description="" source="" latitude="" heading="0" tags="" longitude="" customnodeid="" title="Sol_Giriş5"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label height="20" textalpha="1" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" border="1" textcolor="0x000000" width="180" borderalpha="1" background="1" borderradius="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot skinid="ht_node" description="" target="1.2/-3.9/134.3" id="Point01" tilt="0.04" url="{node14}" pan="-359.57" title=""/>
+      <hotspot skinid="ht_node" description="" target="-167.0/-12.6/126.6" id="Point02" tilt="-1.84" url="{node12}" pan="-173.58" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point03" tilt="-13.17" url="images/1-1.jpeg" pan="-192.94" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point04" tilt="-21.17" url="images/3-1.jpeg" pan="-206.2" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point05" tilt="-19.61" url="images/WhatsApp Image 2025-02-03 at 22.53.44.jpeg" pan="-221.1" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point06" tilt="-31.73" url="images/4 1.jpeg" pan="-228.04" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point07" tilt="-38.45" url="images/5-1.jpeg" pan="-269.31" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point08" tilt="-32.02" url="images/6-1.jpeg" pan="-313.27" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point09" tilt="-16.64" url="images/7-1.jpeg" pan="-340.44" title=""/>
+      <polyhotspot target="" description="" id="Poly01" url="" title="Hamza Gümüşsoy">
+        <polystring>-139.33/21.1|-150.92/16.38|-150.23/-5.98|-139.24/-7.18</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly02" url="" title="Yunus Emre Akbaş">
+        <polystring>-138.32/-9.55|-144.3/-9.49|-144.11/-15.06|-138.95/-17.06</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly03" url="" title="Tugay Ülger">
+        <polystring>-146.45/-8.96|-150.58/-8.12|-150.45/-12.7|-146.5/-14.46</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly04" url="" title="Muammer Özata">
+        <polystring>-74.02/-27.17|-75.02/-22.33|-84.43/-24.11|-84.47/-28.32</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly05" url="" title="Memiş Arıbaş ">
+        <polystring>-179.52/2.48|-183.49/2.3|-183.67/-13.96|-180.62/-13.86</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly06" url="" title="Sefa Altınsoy">
+        <polystring>-186.32/-12.73|-188.31/-12.97|-188.3/-14.9|-186.75/-14.88</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly07" url="" title="Yalçın Sevindi">
+        <polystring>-197.11/2.72|-200.04/2.69|-198.88/-12.41|-196.26/-12.26</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly08" url="" title="Osmanlı Ordu Arması">
+        <polystring>-186.51/7.87|-193.47/7.47|-193.51/2.52|-186.88/2.31</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly09" url="" title="Yunus Emre Akbaş">
+        <polystring>-201.67/3.3|-206.11/2.83|-205.89/-13.13|-202.74/-12.89</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly10" url="" title="Sefa Altınsoy">
+        <polystring>-212.94/2.57|-219.34/3.25|-216.87/-21.59|-214.47/-21.43</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly11" url="" title="Tugay Ülger">
+        <polystring>-235.59/4.55|-246.03/4.38|-242.13/-33.29|-235.99/-30.95</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly12" url="" title="Yasin Öcal">
+        <polystring>-248.42/-33.94|-253.19/-35.54|-251.45/-39.75|-246.52/-37.18</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly13" url="" title="Mehmet Sevim">
+        <polystring>-282.51/-32.56|-287.97/-32.84|-289.52/-39.41|-281.46/-39.35</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly14" url="" title="Osmanlı Kastamonu Sancağı">
+        <polystring>-253.64/5.62|-265.05/5.6|-266.33/-6.19|-254.43/-6.23</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly15" url="" title="Osmanlı Ahi Sancağı">
+        <polystring>-270.47/6.42|-281.5/6.21|-282.47/-6.07|-269.36/-5.34</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly16" url="" title="Osmanlı Hilafet Sancağı">
+        <polystring>-260.39/-9.09|-275.61/-9.18|-275.43/-17.91|-259.72/-18.47</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly17" url="" title="Ayhan Demirel">
+        <polystring>-291.52/5.98|-300.88/4.51|-300.07/-32.11|-293.43/-33.57</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly18" url="" title="Lokman Akçağlayan ">
+        <polystring>-317.13/-25.5|-319.61/-24.63|-321.43/-27.1|-318.88/-29.11</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly19" url="" title="Şehit Eyüp Fidan">
+        <polystring>-325.22/-22.44|-328.13/-21.79|-329.98/-24.42|-326.69/-26.3</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly20" url="" title="Eyüp Fidan ">
+        <polystring>-324.08/2.3|-328.82/2.38|-327.79/-18.9|-323.53/-20.16</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly21" url="" title="Yavuz Çoban">
+        <polystring>-30.61/15.5|-40.81/19.38|-40.94/-8.63|-30.9/-8.42|-31.39/-8.44|-30.43/-7.67</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly22" url="" title="Hamza Gümüşsoy">
+        <polystring>-23.25/8.76|-28.21/10.67|-28.03/1.95|-23.05/1.28</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly23" url="" title="Kadir Aydın">
+        <polystring>-29.52/-1.43|-27.65/-1.25|-27.69/-6.73|-29.1/-6.94</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" zoomout="0" enabled="1" zoomspeed="2" delay="none" softedge="0" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" blendtime="1"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" contextfullscreen="1" speedwheel="1" sensitivity="8" invertwheel="0" zoomcentercursor="1" rubberband="0" contextvr="1" contextprojections="0" hideabout="0" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node14">
+    <input height="1824" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="1824" levelbias="0.400" overlap="1" levelingpitch="0" leveltilesize="510" levelingroll="0">
+      <level height="1824" width="1824" preload="0" predecode="0"/>
+      <level height="912" width="912" preload="0" predecode="0"/>
+      <level height="456" width="456" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" fov="140" pan="360" fovstereographic="330"/>
+    </view>
+    <userdata info="" nodeid="node14" datetime="4.01.2025 10:00" author="" copyright="" comment="" description="" source="" latitude="" heading="0" tags="" longitude="" customnodeid="" title="Sol_Giriş6"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label height="20" textalpha="1" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" border="1" textcolor="0x000000" width="180" borderalpha="1" background="1" borderradius="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot skinid="ht_node" description="" target="7.7/-0.7/136.9" id="Point01" tilt="0.97" url="{node15}" pan="-352.79" title=""/>
+      <hotspot skinid="ht_node" description="" target="-178.3/-12.5/136.9" id="Point02" tilt="-2.69" url="{node13}" pan="-166.89" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point03" tilt="-20.11" url="images/4 1.jpeg" pan="-197.38" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point04" tilt="-27.79" url="images/5-1.jpeg" pan="-212.57" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point05" tilt="-39.36" url="images/6-1.jpeg" pan="-246.46" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point06" tilt="-22.89" url="images/7-1.jpeg" pan="-320.43" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point07" tilt="-16.31" url="images/8.jpeg" pan="-331.4" title=""/>
+      <polyhotspot target="" description="" id="Poly01" url="" title="Muammer Özata ">
+        <polystring>-132.85/-19.47|-132.13/-15.12|-137.22/-15.02|-138.06/-17.45</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly02" url="" title="Yavuz Çoban">
+        <polystring>-72.47/28.37|-102.47/26.61|-102.48/-12.46|-72.42/-13.01</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly03" url="" title="Hamza Gümüşsoy">
+        <polystring>-46.82/18|-67.58/20.54|-67.73/4.03|-45.95/3.73</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly04" url="" title="Kadir Aydın">
+        <polystring>-60.25/-1.7|-69.23/-1.71|-69.26/-13.92|-59.7/-13.62</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly05" url="" title="Şehit Fatih Gökkaya">
+        <polystring>-52.53/-2.62|-57.78/-2.51|-57.9/-11.91|-52.06/-11.48</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly06" url="" title="Ecevit Altan ">
+        <polystring>-54.14/-16.43|-59.97/-17.22|-59.47/-25.03|-53.38/-24.26</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly07" url="" title="Orhan Koçak">
+        <polystring>-43.6/-1.11|-49.67/-1.16|-49.87/-11.35|-42.9/-11.29</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly08" url="" title="Ünal Demir">
+        <polystring>-42.12/-12.73|-50.82/-15.07|-49.45/-27.86|-40.93/-25.03</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly09" url="" title="Yaşar Geçgil">
+        <polystring>-35.4/21.28|-39.11/22.45|-39.62/15.87|-34.9/13.8</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly10" url="" title="Erdem Kapan">
+        <polystring>-34.34/11.82|-40.25/12.43|-39.99/6.14|-34.83/5.48</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly11" url="" title="Halil Köksal">
+        <polystring>-27.3/18.37|-32.85/20.22|-33.12/7.38|-26.7/6.39</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly12" url="" title="Serdar Koçak">
+        <polystring>-26.96/4.54|-32.04/4.91|-32.02/-6.67|-26.72/-6.35</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly13" url="" title="Ramazan Özbek">
+        <polystring>-29.89/-7.42|-33.12/-7.48|-33.16/-11.74|-29.67/-11.26</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly14" url="" title="Mehmet Ali Demir">
+        <polystring>-34.42/3.31|-41.85/3.95|-41.94/-10.72|-33.97/-9.76</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly15" url="" title="Muammer Özata">
+        <polystring>-34.41/-11.56|-39.66/-12.57|-39.59/-22.26|-34.22/-20.89</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly16" url="" title="Süleyman Köse">
+        <polystring>-29.43/-12.49|-32.94/-13.02|-32.86/-20.52|-29.34/-19.68</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly17" url="" title="Yücel Demirtaş">
+        <polystring>-22.67/-6.51|-28.19/-7.92|-27.65/-19.91|-22.29/-17.31</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly18" url="" title="Ali Rıza Baştuğ">
+        <polystring>-22.56/1.45|-25.35/2.07|-25.26/-5.01|-22.36/-4.71</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly19" url="" title="Abdullah Satılmış">
+        <polystring>-18.14/-10.24|-21.24/-10.52|-20.89/-19.49|-18.19/-17.99</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly20" url="" title="İlker Vurgun">
+        <polystring>-18.87/-2.03|-20.76/-2.06|-20.71/-8.84|-18.68/-8.25</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly21" url="" title="Resul Korkmaz ">
+        <polystring>-23.36/8.34|-25.09/8.59|-25.35/3.98|-22.75/3.3</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly22" url="" title="Ramazan Ünver">
+        <polystring>-22.72/16.72|-25.59/17.75|-25.84/11.36|-22.24/9.76</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly23" url="" title="Cengiz Ceylan ">
+        <polystring>-18.89/14.72|-20.64/15.49|-20.99/9.37|-18.97/8.63</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly24" url="" title="Yıldız Aras">
+        <polystring>-18.42/6.41|-20.29/6.82|-20.51/1.13|-18.9/1.26</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly25" url="" title="Memiş Arıbaş">
+        <polystring>-172.25/0.18|-174.35/0.56|-173.91/-10.62|-172.73/-11.21</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly26" url="" title="Sefa Altınsoy">
+        <polystring>-176.4/-9.94|-177.71/-9.99|-177.92/-11.32|-176.45/-11.66</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly27" url="" title="Yalçın Sevindi">
+        <polystring>-184.8/1.17|-187.07/1.19|-186/-9.5|-184.45/-10.19</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly28" url="" title="Yunus Emre Akbaş">
+        <polystring>-188.01/0.7|-190.49/0.83|-189.89/-10.73|-188.59/-10.8</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly29" url="" title="Sefa Altınsoy">
+        <polystring>-193.46/1.6|-195.69/1.5|-194.2/-13.69|-193.27/-13.28</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly30" url="" title="Tugay Ülger ">
+        <polystring>-202.26/2.65|-206.46/2.55|-205.19/-21.41|-201.22/-20.6</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly31" url="" title="Yasin Öcal">
+        <polystring>-205.83/-22.61|-207.66/-24.63|-204.22/-26|-202.81/-24.21</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly32" url="" title="Mehmet Sevim">
+        <polystring>-220.22/-27.51|-225.24/-29.48|-221.71/-34.16|-216.13/-31.29</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly33" url="" title="Ayhan Demirel">
+        <polystring>-230.55/5.15|-240.59/5.11|-237.73/-33.18|-232.11/-32.47</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly34" url="" title="Lokman Akçağlayan ">
+        <polystring>-263.73/-33.22|-268.42/-32.76|-269.7/-38.44|-262.78/-38.44</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly35" url="" title="Şehit Eyüp Fidan">
+        <polystring>-282.29/-32.69|-286.43/-31.88|-288.53/-38.21|-284.91/-38.49</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly36" url="" title="Eyüp Fidan">
+        <polystring>-285.01/6.61|-294.67/6.54|-292.1/-30.41|-285.64/-28.7</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly37" url="" title="Havelsan">
+        <polystring>-306.45/-28.87|-310.68/-27.89|-310.89/-31.62|-306.43/-32.43</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly38" url="" title="Osmanlı Manisa Sancağı">
+        <polystring>-299.48/4.48|-306.63/3.89|-305.78/-4.4|-298.52/-5.01</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly39" url="" title="Osmanlı Alay Sancağı">
+        <polystring>-310.05/3.91|-314.56/3.64|-314.54/-3.23|-310.06/-3.98</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly40" url="" title="Sinan Kunduracı">
+        <polystring>-306.55/-19.44|-310.13/-17.89|-312.34/-23.54|-308.19/-24.45</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly41" url="" title="Hamza Gümüşsoy">
+        <polystring>-322.42/-21.37|-324.21/-20.44|-325.25/-21.23|-324.28/-22.64</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly42" url="" title="Hamza Gümüşsoy">
+        <polystring>-317.58/3.57|-321.27/3.34|-321.32/-18.43|-319.51/-19.34</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly43" url="" title="Mustafa Ergen">
+        <polystring>-324.51/-16.19|-327.38/-16.08|-328.06/-18.43|-325.15/-18.62</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly44" url="" title="İmdat Pala">
+        <polystring>-323.62/-8.28|-326.3/-8.07|-326.37/-14.65|-323.84/-14.89</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly45" url="" title="Osmanlı Bozkır Sancağı">
+        <polystring>-323.81/10.52|-326.6/9.79|-326.33/5.58|-323.18/5.55</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly46" url="" title="Osmanlı Çorum Sancağı">
+        <polystring>-326.07/2.68|-327.89/2.59|-328.05/-2.54|-326.09/-3.07</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly47" url="" title="Alper Balcı">
+        <polystring>-330.14/2.91|-332.72/2.8|-332.43/-11.18|-330.53/-11.4</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <image stretch="1.044" height="1203" clickmode="1" popoutscaling="100" tilt="-21.687" fov="11.770" pan="-70.552" handcursor="1" roty="-8.102" width="1720" id="Element01" rotx="32.272" rotz="-0.744" popbackmode="0" hidepinned="1">
+        <source url="media/WhatsApp Image 2025-02-02 at 23.54.16.jpeg"/>
+      </image>
+      <image stretch="0.922" height="2048" clickmode="1" popoutscaling="100" tilt="-0.056" fov="23.358" pan="96.062" handcursor="1" roty="-16.451" width="1366" id="Element02" rotx="-2.931" rotz="-0.560" popbackmode="0" hidepinned="1">
+        <source url="media/WhatsApp Image 2025-02-02 at 23.54.17.jpeg"/>
+      </image>
+    </media>
+    <transition type="crossdissolve" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" zoomout="0" enabled="1" zoomspeed="2" delay="none" softedge="0" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" blendtime="1"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" contextfullscreen="1" speedwheel="1" sensitivity="8" invertwheel="0" zoomcentercursor="1" rubberband="0" contextvr="1" contextprojections="0" hideabout="0" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node15">
+    <input height="1824" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="1824" levelbias="0.400" overlap="1" levelingpitch="0" leveltilesize="510" levelingroll="0">
+      <level height="1824" width="1824" preload="0" predecode="0"/>
+      <level height="912" width="912" preload="0" predecode="0"/>
+      <level height="456" width="456" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" fov="140" pan="360" fovstereographic="330"/>
+    </view>
+    <userdata info="" nodeid="node15" datetime="4.01.2025 10:01" author="" copyright="" comment="" description="" source="" latitude="" heading="0" tags="" longitude="" customnodeid="" title="Sol_Giriş7"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label height="20" textalpha="1" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" border="1" textcolor="0x000000" width="180" borderalpha="1" background="1" borderradius="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot skinid="ht_node" description="" target="6.1/-4.9/126.6" id="Point01" tilt="1.74" url="{node16}" pan="-354.96" title=""/>
+      <hotspot skinid="ht_node" description="" target="-169.8/-15.0/136.9" id="Point02" tilt="-2.41" url="{node14}" pan="-168.71" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point03" tilt="-17.94" url="images/5-1.jpeg" pan="-195.84" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point04" tilt="-26.24" url="images/6-1.jpeg" pan="-205.78" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point05" tilt="-37.33" url="images/7-1.jpeg" pan="-286.56" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point06" tilt="-25.76" url="images/8.jpeg" pan="-318.42" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point07" tilt="-17.96" url="images/9-1.jpeg" pan="-330.1" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point08" tilt="-14.12" url="images/10-1.jpeg" pan="-349.3" title=""/>
+      <polyhotspot target="" description="" id="Poly01" url="" title="Yavuz Çoban ">
+        <polystring>-136.46/18.45|-144.54/14.44|-144.44/-6.42|-135.52/-7.64</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly02" url="" title="Hamza Gümüşsoy">
+        <polystring>-122.18/17.84|-134.8/14.41|-134.6/3.16|-121.48/3.38</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly03" url="" title="Kadir Aydın">
+        <polystring>-130.31/-0.68|-134.38/-0.68|-134.85/-8.87|-130.09/-9.48</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly04" url="" title="Fatih Gökkaya ">
+        <polystring>-125.54/-1.59|-129.06/-1.59|-129.18/-8.48|-125.08/-9.25</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly05" url="" title="Ecevit Altan">
+        <polystring>-126.9/-12.9|-130.21/-12.57|-129.87/-18.63|-126.44/-19.56|-126.21/-19.14</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly06" url="" title="Orhan Koçak">
+        <polystring>-117.91/-0.11|-123.73/-0.45|-123.49/-9.68|-117.66/-10.75</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly07" url="" title="Ünal Demir">
+        <polystring>-116.13/-13.37|-124/-12.35|-123.98/-24.84|-115.27/-27.03</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly08" url="" title="Yaşar Geçgil">
+        <polystring>-105.59/29.19|-113.78/28.03|-113.43/18.83|-104.79/19.22</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly09" url="" title="Erdem Kapan ">
+        <polystring>-104.69/17.21|-113.62/15.97|-113.41/7.95|-104.15/8.72</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly10" url="" title="Halil Köksal">
+        <polystring>-85.85/31.54|-102.41/29.4|-102.91/11.03|-85.2/12.75</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly11" url="" title="Serdar Koçak">
+        <polystring>-87.68/9.02|-100.87/9|-100.94/-9.5|-88.17/-9.46</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly12" url="" title="Ramazan Özbek">
+        <polystring>-94.46/-10.19|-102.34/-10.3|-102.8/-15.79|-95.15/-16.3</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly13" url="" title="Mehmet Ali Demir">
+        <polystring>-104.65/6.49|-116.47/5.42|-116.4/-10.98|-103.94/-12.13</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly14" url="" title="Muammer Özata">
+        <polystring>-104.43/-14.29|-114.24/-14|-113.9/-25.09|-104.25/-26.64</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly15" url="" title="Süleyman Köse">
+        <polystring>-94.31/-18.44|-103.03/-17.4|-102.45/-27.37|-94.88/-28.29</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly16" url="" title="Yücel Demirtaş">
+        <polystring>-72.2/-10.15|-92.61/-10.91|-92.37/-31.13|-72.08/-31.5</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly17" url="" title="Ali  Rıza Baştuğ">
+        <polystring>-72.21/4.86|-82.24/4.61|-83.16/-8.1|-72.24/-8.69</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly18" url="" title="Abdullah Satılmış">
+        <polystring>-55.21/-17.91|-66.69/-19.59|-67.49/-34.39|-54.46/-32.08</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly19" url="" title="İlker Vurgun">
+        <polystring>-55.86/-2.26|-65.76/-2.45|-65.73/-15.72|-56.2/-15.04</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly20" url="" title="Resul Korkmaz">
+        <polystring>-73.88/17.76|-81.59/17.51|-81.55/7.41|-73.14/7.11|-73.14/7.11|-72.97/7.47</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly21" url="" title="Ramazan Ünver">
+        <polystring>-72/31.48|-83.86/31.25|-82.87/20.36|-70.49/20.05</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly22" url="" title="Cengiz Ceylan">
+        <polystring>-56.6/29.12|-64.74/30.47|-65.21/19.24|-56.53/17.81</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly23" url="" title="Yıldız Aras">
+        <polystring>-56.03/13.96|-63.21/14.73|-63.99/3.85|-56.96/4</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly24" url="" title="Ali Çakır">
+        <polystring>-48.52/-18.98|-53.87/-20.55|-53.75/-28.31|-47.77/-27.16</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly25" url="" title="Mehmet Çalışkan ">
+        <polystring>-42.78/-19.51|-45.95/-19.92|-45.96/-25.16|-43.23/-24.15</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly26" url="" title="Attila Mutlu">
+        <polystring>-44.97/-2.17|-53.18/-2.6|-53.53/-16.04|-44.4/-14.97</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly27" url="" title="İmdat Pala ">
+        <polystring>-36.65/-2.75|-42.5/-2.89|-42.73/-13.25|-36.43/-12.54</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly28" url="" title="Recep Mengi">
+        <polystring>-36.81/23.37|-51.94/27.36|-51.76/0.86|-36.58/0.64</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly29" url="" title="Ertan Özan ">
+        <polystring>-28.58/-11.49|-32.5/-12.31|-32.16/-19.8|-28.17/-18.62</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly30" url="" title="Salim Geyik">
+        <polystring>-30.85/-4.37|-34.21/-4.46|-34.22/-11.22|-30.62/-10.86</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly31" url="" title="Mesut Çiftci">
+        <polystring>-26.75/-4.52|-29.68/-5.03|-29.56/-10.13|-27.28/-9.97</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly32" url="" title="Çapan Turgut">
+        <polystring>-21.9/-5.87|-26.06/-6.36|-26.04/-17.05|-22.14/-15.46</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly33" url="" title="Şükrü Koçak">
+        <polystring>-24.07/2.65|-26.89/3.13|-26.7/-3.17|-24.38/-3.11</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly34" url="" title="Mustafa Gök">
+        <polystring>-21.98/1.54|-23.27/1.56|-23.31/-3.08|-21.91/-3.04</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly35" url="" title="Ramazan Eroğlu">
+        <polystring>-22.81/8.08|-25.59/8.69|-25.84/4.88|-22.72/3.95</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly36" url="" title="Hayrettin Ökçesiz">
+        <polystring>-21.91/16.7|-26.05/17.94|-26.54/10.8|-21.93/9.73</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly37" url="" title="Murat Duran ">
+        <polystring>-27.32/18.76|-32.67/20.85|-33.1/14.79|-27.63/12.8</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly38" url="" title="Memiş Arıbaş">
+        <polystring>-172.31/0.84|-174.64/0.75|-174.72/-8.12|-172.79/-8.6</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly39" url="" title="Yalçın Sevindi">
+        <polystring>-183.11/0.76|-184.59/0.76|-183.93/-7.16|-182.41/-7.16</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly40" url="" title="Yunus Emre Akbaş">
+        <polystring>-185.44/1.16|-186.76/1.07|-186.19/-7.48|-185.66/-7.36</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly41" url="" title="Sefa Altınsoy">
+        <polystring>-187.98/0.97|-190.16/1.08|-188.8/-8.81|-187.94/-8.79</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly42" url="" title="Tugay Ülger ">
+        <polystring>-192.97/1.18|-196.01/1.39|-194.64/-13.76|-192.64/-13.63</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly43" url="" title="Yasin Öcal ">
+        <polystring>-192.62/-14.82|-193.95/-15.81|-192.13/-16.87|-190.68/-16.19</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly44" url="" title="Mehmet Sevim">
+        <polystring>-198.82/-17.22|-201.36/-19.01|-198.41/-21.11|-196.9/-19.83</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly45" url="" title="Ayhan Demirel">
+        <polystring>-204.11/2.65|-209.15/2.38|-208.94/-21.24|-205.45/-20.66</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly46" url="" title="Lokman Akçağlayan ">
+        <polystring>-216.57/-25.65|-220.01/-26.56|-217.71/-29.68|-214.13/-28.78</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly47" url="" title="Eyüp Fidan ">
+        <polystring>-225.38/-29.05|-229.81/-30.4|-226.42/-35.91|-223.16/-33.31</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly48" url="" title="Eyüp Fidan ">
+        <polystring>-232.76/4.81|-241.65/4.81|-238.83/-30.32|-232.2/-28.96|-232.2/-28.96|-232.37/-28.85</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly49" url="" title="Havalsen ">
+        <polystring>-249.44/-37.54|-252.99/-38.17|-253.15/-42.92|-248.45/-42.5</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly50" url="" title="Sinan Kunduracı">
+        <polystring>-266.95/-26.68|-275.58/-26.41|-275.13/-33.4|-268.55/-33.73</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly51" url="" title="Hamza Gümüşsoy">
+        <polystring>-289.66/5.37|-298.77/5.63|-298.19/-30.33|-291.76/-30.52</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly52" url="" title="Hamza Gümüşsoy">
+        <polystring>-295.31/-33.68|-297.5/-33.02|-301.87/-33.97|-297.29/-35.84</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly53" url="" title="Mustafa Ergen">
+        <polystring>-304.52/-26.69|-308.46/-26.01|-310.83/-30.46|-306.54/-30.69</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly54" url="" title="İmdat Pala ">
+        <polystring>-306.04/-13.33|-312.03/-12.24|-311.93/-22.12|-307.28/-23.51</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly55" url="" title="Osmanlı Tılsımlı Sancak">
+        <polystring>-300.31/5.19|-304.34/4.73|-304.87/-5.19|-299.96/-5.51</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly56" url="" title="Osmanlı Bozkur Sancağı">
+        <polystring>-306.4/14.94|-312.09/13.54|-312.08/7.46|-305.24/8.31</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly57" url="" title="Osmanlı Çorum Sancağı">
+        <polystring>-312.3/3.91|-315.86/3.86|-316.09/-4.13|-312.49/-4.8</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly58" url="" title="Süleyman Köse">
+        <polystring>-320.05/-20.43|-321.93/-19.93|-323.76/-22.19|-321.06/-23.51</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly59" url="" title="Alper Balcı">
+        <polystring>-318.92/2.63|-323.22/2.7|-323.16/-18.52|-320.39/-17.96</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly60" url="" title="Ünal Demir">
+        <polystring>-333.24/2.14|-336.9/1.78|-336.47/-12.99|-334.19/-13.02</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly61" url="" title="Osmanlı Barbaros Hayrettin Paşa Sancağı">
+        <polystring>-343.12/6.36|-346.18/6.13|-346.33/1.51|-342.86/1.27</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly62" url="" title="Osmanlı 57. Alay Sancağı">
+        <polystring>-356.5/6.6|-359.53/6.51|-359.48/1.61|-356.2/1.61|-356.12/1.54|-356.04/1.61|-356.12/1.61</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly63" url="" title="Ramazan Aktürk">
+        <polystring>-1.77/1.64|-6.32/1.48|-4.61/-12.94|-2.92/-13.61</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <image stretch="1.932" height="1203" clickmode="1" popoutscaling="100" tilt="-15.996" fov="6.548" pan="-136.334" handcursor="1" roty="-55.416" width="1720" id="Element01" rotx="-6.401" rotz="-29.733" popbackmode="0" hidepinned="1">
+        <source url="media/WhatsApp Image 2025-02-02 at 23.54.16.jpeg"/>
+      </image>
+      <image stretch="1.282" height="2048" clickmode="1" popoutscaling="100" tilt="-0.488" fov="13.803" pan="139.036" handcursor="1" roty="20.387" width="1366" id="Element02" rotx="-10.899" rotz="2.975" popbackmode="0" hidepinned="1">
+        <source url="media/WhatsApp Image 2025-02-02 at 23.54.17.jpeg"/>
+      </image>
+    </media>
+    <transition type="crossdissolve" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" zoomout="0" enabled="1" zoomspeed="2" delay="none" softedge="0" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" blendtime="1"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" contextfullscreen="1" speedwheel="1" sensitivity="8" invertwheel="0" zoomcentercursor="1" rubberband="0" contextvr="1" contextprojections="0" hideabout="0" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node16">
+    <input height="1824" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="1824" levelbias="0.400" overlap="1" levelingpitch="0" leveltilesize="510" levelingroll="0">
+      <level height="1824" width="1824" preload="0" predecode="0"/>
+      <level height="912" width="912" preload="0" predecode="0"/>
+      <level height="456" width="456" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" fov="140" pan="360" fovstereographic="330"/>
+    </view>
+    <userdata info="" nodeid="node16" datetime="4.01.2025 10:02" author="" copyright="" comment="" description="" source="" latitude="" heading="0" tags="" longitude="" customnodeid="" title="Sol_Giriş8"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label height="20" textalpha="1" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" border="1" textcolor="0x000000" width="180" borderalpha="1" background="1" borderradius="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot skinid="ht_node" description="" target="-1.8/-21.9/157.2" id="Point01" tilt="-6.7" url="{node19}" pan="-55.53" title=""/>
+      <hotspot skinid="ht_node" description="" target="-172.8/-11.8/157.2" id="Point02" tilt="-2.42" url="{node15}" pan="-172.05" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point03" tilt="-22.2" url="images/10-1.jpeg" pan="-349.14" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point04" tilt="-28.98" url="images/9-1.jpeg" pan="-313.22" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point05" tilt="-39.84" url="images/8.jpeg" pan="-274.43" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point06" tilt="-32.08" url="images/7-1.jpeg" pan="-224.15" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point07" tilt="-16.52" url="images/6-1.jpeg" pan="-194.06" title=""/>
+      <polyhotspot target="" description="" id="Poly01" url="" title="Ramazan Aktürk">
+        <polystring>-8.67/2.74|-13.95/2.43|-12.75/-20.91|-8.89/-20.59</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly02" url="" title="Osmanlı 57. Alay Sancağı">
+        <polystring>-0.02/10.07|-4.98/9.71|-4.35/2.66|-359.65/2.57</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly03" url="" title="Osmanlı Barbaros Hayrettin Paşa Sancağı">
+        <polystring>-339.56/9.48|-344.07/9.98|-344.61/2.8|-339.88/2.51</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly04" url="" title="Ünal Demir">
+        <polystring>-323.5/2.53|-330.85/2.44|-329.08/-19.2|-325.79/-19.56</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly05" url="" title="Ramazan Akbulut">
+        <polystring>-334.45/-20.78|-336.72/-20.5|-336.82/-21.62|-333.79/-22.14</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly06" url="" title="Yasin Öcal">
+        <polystring>-340.88/-21.07|-343.51/-21.86|-342.35/-23.19|-340.19/-22.83</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly07" url="" title="Ramazan Akbulut">
+        <polystring>-317.85/-22.16|-323.05/-22.07|-322.61/-24.25|-317.95/-23.99</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly08" url="" title="Osmanlı Yozgat Sancağı">
+        <polystring>-303.32/5.26|-308.03/5.22|-307.71/-4.32|-302.58/-4.62</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly09" url="" title="Osmanlı Hicaz Bölüğü Askeri Sancağı">
+        <polystring>-315.06/13.18|-309.25/14.13|-309.03/8.61|-315.17/7.21</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly10" url="" title="1453- 2020">
+        <polystring>-316.25/4.38|-318.51/4.31|-318.77/-3.57|-315.92/-4.01</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly11" url="" title="Alper Balcı">
+        <polystring>-291.1/6.63|-300.5/5.33|-299.74/-29.44|-292.63/-29.89</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly12" url="" title="Süleyman Köse">
+        <polystring>-287.12/-30.02|-289.62/-29.86|-293.33/-36.02|-288.63/-36.73</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly13" url="" title="Osmanlı Çorum Sancağı">
+        <polystring>-276.96/5.99|-284.67/5.82|-285.53/-6.18|-277.16/-7.2</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly14" url="" title="Osmanlı Bozkır Sancağı">
+        <polystring>-261.62/20.31|-276.07/20.12|-275.57/12.01|-261.45/11.47</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly15" url="" title="Osmanlı Tılsımlı Sancak">
+        <polystring>-253.1/5.94|-261.34/5.62|-261.27/-6.88|-251.76/-7.24</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly16" url="" title="İmdat Pala">
+        <polystring>-264.95/-17.09|-274.85/-17.1|-274.65/-31.27|-263.72/-31.05</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly17" url="" title="Mustafa Ergen">
+        <polystring>-250.94/-33|-256.2/-33.22|-254.61/-39.9|-250.33/-38.56</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly18" url="" title="Hamza Gümüşsoy">
+        <polystring>-237.56/5.01|-246.02/4.69|-244.49/-30.68|-236.32/-29.65</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly19" url="" title="Hamza Gümüşsoy">
+        <polystring>-234.73/-34.11|-240.07/-34.75|-240.59/-38.29|-232.34/-37.04</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly20" url="" title="Sinan Kunduracı">
+        <polystring>-223.39/-21.45|-227.79/-23.04|-226.16/-28.21|-221.6/-26.8</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly21" url="" title="Osmanlı Alay Sancağı">
+        <polystring>-227.26/3.51|-234.5/3.3|-235.22/-5.39|-226.49/-5.51</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly22" url="" title="Osmanlı Manisa Sancağı">
+        <polystring>-216.41/2.96|-221.88/2.95|-222.03/-5.52|-216.51/-5.28</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly23" url="" title="Eyüp Fidan">
+        <polystring>-205.91/2.42|-211.68/1.45|-209.5/-19.22|-206.38/-18.7</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly24" url="" title="Eyüp Fidan ">
+        <polystring>-201.6/-18.06|-203.62/-19.42|-200.69/-21.17|-199.52/-20.32</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly25" url="" title="Lokman Akçağlayan ">
+        <polystring>-198.6/-16.41|-199.63/-16.9|-198.85/-18.28|-196.93/-17.88</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly26" url="" title="Ayhan Demirel">
+        <polystring>-194.41/0.39|-197.62/0.25|-196.66/-12.55|-195.36/-12.48</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly27" url="" title="Mehmet Sevim">
+        <polystring>-192.39/-12.44|-193.17/-13.91|-190.68/-13.72</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly28" url="" title="Tugay Ülger ">
+        <polystring>-188.95/0.79|-191.43/0.38|-190.99/-9.79|-189.66/-9.43</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly29" url="" title="Hayrettin Ökçesiz ">
+        <polystring>-74.52/31.67|-93.01/31.24|-92.62/20.73|-74.01/19.52</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly30" url="" title="Ramazan Eroğlu">
+        <polystring>-78.38/15.72|-89.46/16.3|-89.29/8.94|-77.59/8.6</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly31" url="" title="Mustafa Gök">
+        <polystring>-74.01/3.82|-80.49/3.73|-81.05/-4.81|-74.26/-5.52</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly32" url="" title="Şükrü Koçak">
+        <polystring>-83.05/6.33|-92.76/6.7|-93.24/-5.52|-82.75/-5.16</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly33" url="" title="Murat Duran">
+        <polystring>-95.64/31.26|-109.28/29.42|-108.67/20.08|-94.89/20.66</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly34" url="" title="Çapan Turgut">
+        <polystring>-75.28/-10.91|-90.14/-10.89|-90.46/-28.55|-76.27/-28.61</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly35" url="" title="Mesut Çiftci">
+        <polystring>-93.41/-7.2|-99.82/-7.43|-100.08/-16.35|-93.21/-16.76</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly36" url="" title="Ertan Özan">
+        <polystring>-97.08/-18.31|-105.85/-17.59|-106.17/-27.96|-95.68/-28.77</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly37" url="" title="Salim Geyik">
+        <polystring>-102.63/-5.7|-109.84/-5.96|-109.67/-17.07|-102.04/-16.23</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly38" url="" title="Recep Mengi">
+        <polystring>-115.84/27.74|-130.4/22.93|-129.77/0.34|-115.31/-0.18</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly39" url="" title="Cengiz Ceylan">
+        <polystring>-133.31/21.56|-137/20.68|-136.58/12.19|-132.74/13.18</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly40" url="" title="Yıldız Aras">
+        <polystring>-132.55/9.86|-135.9/9.58|-136.01/3.37|-133/2.72</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly41" url="" title="İmdat Pala ">
+        <polystring>-115.33/-3.93|-121.84/-3.45|-121.85/-13.3|-115.38/-14.45</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly42" url="" title="Mehmet Çalışkan">
+        <polystring>-121.85/-19.95|-122.03/-24.95|-124.92/-24.25|-125.26/-19.64</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly43" url="" title="Attila Mutlu">
+        <polystring>-125.12/-3.45|-130.94/-3.42|-130.72/-12.22|-124.59/-13.61</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly44" url="" title="Ali Çakır">
+        <polystring>-127.14/-18.26|-130.69/-17.09|-131.16/-23.49|-126.78/-24.91</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly45" url="" title="Ramazan Ünver">
+        <polystring>-140.1/18.62|-143.62/17.49|-142.74/10.89|-139.36/11.59</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly46" url="" title="Resul Korkmaz">
+        <polystring>-140.31/9.21|-142.56/9.26|-142.8/3.95|-140.08/3.16</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly47" url="" title="Ali Rıza Baştuğ">
+        <polystring>-139.73/1.3|-142.3/1.45|-143.47/-4.17|-139.65/-5.77</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly48" url="" title="Yücel Demirtaş ">
+        <polystring>-140.59/-7.88|-144.35/-7.06|-144.65/-17.19|-140.3/-18.67</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly49" url="" title="İlker Vurgun">
+        <polystring>-132.5/-2.49|-137.73/-2.78|-137.16/-10.15|-132.95/-11.47</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly50" url="" title="Abdullah Satılmış">
+        <polystring>-132.25/-15.06|-137.78/-13.66|-137.51/-23.38|-132.51/-25.57</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" zoomout="0" enabled="1" zoomspeed="2" delay="none" softedge="0" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" blendtime="1"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" contextfullscreen="1" speedwheel="1" sensitivity="8" invertwheel="0" zoomcentercursor="1" rubberband="0" contextvr="1" contextprojections="0" hideabout="0" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node19">
+    <input height="1824" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="1824" levelbias="0.400" overlap="1" levelingpitch="0" leveltilesize="510" levelingroll="0">
+      <level height="1824" width="1824" preload="0" predecode="0"/>
+      <level height="912" width="912" preload="0" predecode="0"/>
+      <level height="456" width="456" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="92.6935" fovmode="2">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" fov="140" pan="360" fovstereographic="330"/>
+    </view>
+    <userdata info="" nodeid="node19" datetime="4.01.2025 10:06" author="" copyright="" comment="" description="" source="" latitude="" heading="92.6935" tags="" longitude="" customnodeid="" title="Sol_Giriş9">
+      <mapcoords mapid="FloorPlan01" y_floorplan_percent="32.2503" x_floorplan_percent="24.1237" x="0.6427" y="-0.736084"/>
+      <mapcoords mapid="FloorPlan02" y_floorplan_percent="32.0096" x_floorplan_percent="23.5052" x="0.626221" y="-0.730591"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label height="20" textalpha="1" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" border="1" textcolor="0x000000" width="180" borderalpha="1" background="1" borderradius="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot skinid="ht_node" description="" target="80.1/-10.0/126.6" id="Point01" tilt="-5.85" url="{node16}" pan="-179.3" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point02" tilt="-26.03" url="images/12-1.jpeg" pan="-287.27" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point03" tilt="-31.83" url="images/11-1.jpeg" pan="-102.35" title=""/>
+      <polyhotspot target="" description="" id="Poly01" url="" title="Cengiz Ceylan">
+        <polystring>-291.33/5.31|-299.35/4.7|-297.8/-22.01|-292.86/-21.56</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly02" url="" title="Osmanlı Gazze Sancağı">
+        <polystring>-277.64/6.38|-285.8/6.08|-286.45/-2.49|-278.5/-2.73</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly03" url="" title="İmdat Pala ">
+        <polystring>-263.72/5.63|-273.04/5.8|-270.57/-25.21|-264.93/-25.5</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly04" url="" title="Erhan Karacan ">
+        <polystring>-254.2/-25.3|-258.5/-25.47|-257.1/-29.58|-253.59/-29.28</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly05" url="" title="Hamza Gümüşsoy">
+        <polystring>-238.55/4.82|-246.97/4.78|-245.97/-22.82|-240.59/-23.96</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly06" url="" title="Osmanlı Konya Sancağı">
+        <polystring>-250.22/5.68|-258.47/5.86|-259.13/-2.38|-250.93/-3</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly07" url="" title="">
+        <polystring>-51.86/-26.52|-54.34/-26.66|-54.14/-29.22|-51.78/-29.31</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly08" url="" title="Gökhan Delen">
+        <polystring>-60.24/-28.24|-63.29/-28.62|-63.16/-29.91|-59.84/-29.98</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly09" url="" title="Dış Yüzey">
+        <polystring>-59.76/-21.72|-59.58/-23.15|-61.35/-23.4|-61.63/-21.64</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly10" url="" title="Dış Yüzey">
+        <polystring>-64.73/-21.61|-66.46/-21.87|-67.08/-24.44|-64.35/-24.03</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly11" url="" title="Osmanlı Ayasofya Sancağı">
+        <polystring>-61.32/3.05|-67.54/2.94|-68.05/-6.81|-62/-6.77</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly12" url="" title="Önder Güzel">
+        <polystring>-72.92/3.9|-82.21/3.92|-79.92/-28.52|-73.85/-28.18</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly13" url="" title="Osmanlı Denizli Sancağı">
+        <polystring>-91.07/2.79|-97.95/2.8|-98.4/-6.88|-90.73/-7.67</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly14" url="" title="Önder Güzel">
+        <polystring>-85.17/-27.43|-88.98/-27.33|-89.36/-31.61|-85.85/-31.49</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly15" url="" title="Resul Korkmaz">
+        <polystring>-104.98/3.29|-113.92/2.97|-112.55/-28|-107.39/-28.33</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <image stretch="1.238" height="1600" clickmode="1" popoutscaling="100" tilt="5.968" fov="6.953" pan="-22.923" handcursor="1" roty="-15.879" width="1169" id="Element01" rotx="55.583" rotz="13.055" popbackmode="0" hidepinned="1">
+        <source url="media/WhatsApp Image 2025-02-02 at 14.44.53 1.jpeg"/>
+      </image>
+      <image stretch="0.716" height="1600" clickmode="1" popoutscaling="100" tilt="7.081" fov="7.965" pan="-9.026" handcursor="1" roty="-8.943" width="1211" id="Element02" rotx="-29.668" rotz="-9.185" popbackmode="0" hidepinned="1">
+        <source url="media/WhatsApp Image 2025-02-02 at 14.44.51 2.jpeg"/>
+      </image>
+      <image stretch="0.500" height="1461" clickmode="1" popoutscaling="100" tilt="6.387" fov="16.517" pan="3.681" handcursor="1" roty="-65.035" width="1130" id="Element03" rotx="18.441" rotz="8.679" popbackmode="0" hidepinned="1">
+        <source url="media/WhatsApp Image 2025-02-02 at 14.44.52 3.jpeg"/>
+      </image>
+      <image stretch="1.998" height="1600" clickmode="1" popoutscaling="100" tilt="18.155" fov="8.095" pan="-23.402" handcursor="1" roty="0.748" width="1190" id="Element04" rotx="-67.710" rotz="-0.265" popbackmode="0" hidepinned="1">
+        <source url="media/WhatsApp Image 2025-02-02 at 14.44.52 1.jpeg"/>
+      </image>
+      <image stretch="0.553" height="1599" clickmode="1" popoutscaling="100" tilt="18.748" fov="8.696" pan="-10.626" handcursor="1" roty="17.560" width="1149" id="Element05" rotx="8.359" rotz="-11.198" popbackmode="0" hidepinned="1">
+        <source url="media/WhatsApp Image 2025-02-02 at 14.44.52.jpeg"/>
+      </image>
+      <image stretch="0.501" height="1600" clickmode="1" popoutscaling="100" tilt="17.143" fov="8.859" pan="42.663" handcursor="1" roty="-56.306" width="1156" id="Element06" rotx="-7.962" rotz="-11.127" popbackmode="0" hidepinned="1">
+        <source url="media/WhatsApp Image 2025-02-02 at 14.44.53 2.jpeg"/>
+      </image>
+      <image stretch="1.995" height="1600" clickmode="1" popoutscaling="100" tilt="19.098" fov="4.142" pan="32.653" handcursor="1" roty="12.888" width="1201" id="Element07" rotx="46.101" rotz="-17.758" popbackmode="0" hidepinned="1">
+        <source url="media/WhatsApp Image 2025-02-02 at 14.44.52 2.jpeg"/>
+      </image>
+      <image stretch="1.989" height="1600" clickmode="1" popoutscaling="100" tilt="19.688" fov="4.264" pan="20.989" handcursor="1" roty="15.114" width="1169" id="Element08" rotx="45.971" rotz="0.495" popbackmode="0" hidepinned="1">
+        <source url="media/WhatsApp Image 2025-02-02 at 14.44.53 1.jpeg"/>
+      </image>
+      <image stretch="1.894" height="1600" clickmode="1" popoutscaling="100" tilt="7.690" fov="6.261" pan="19.363" handcursor="1" roty="-0.320" width="1192" id="Element09" rotx="56.163" rotz="2.579" popbackmode="0" hidepinned="1">
+        <source url="media/WhatsApp Image 2025-02-02 at 14.44.53.jpeg"/>
+      </image>
+      <image stretch="1.866" height="1600" clickmode="1" popoutscaling="100" tilt="6.508" fov="4.116" pan="42.546" handcursor="1" roty="-0.320" width="1230" id="Element10" rotx="59.405" rotz="0.985" popbackmode="0" hidepinned="1">
+        <source url="media/WhatsApp Image 2025-02-02 at 14.44.53 3.jpeg"/>
+      </image>
+      <image stretch="1.632" height="1600" clickmode="1" popoutscaling="100" tilt="-3.270" fov="4.500" pan="37.843" handcursor="1" roty="-9.265" width="1280" id="Element11" rotx="42.582" rotz="7.188" popbackmode="0" hidepinned="1">
+        <source url="media/WhatsApp Image 2025-02-02 at 14.44.53 4.jpeg"/>
+      </image>
+      <image stretch="1.692" height="1600" clickmode="1" popoutscaling="100" tilt="7.531" fov="3.463" pan="31.645" handcursor="1" roty="13.417" width="1100" id="Element12" rotx="50.697" rotz="-30.724" popbackmode="0" hidepinned="1">
+        <source url="media/WhatsApp Image 2025-02-02 at 14.44.54.jpeg"/>
+      </image>
+    </media>
+    <transition type="crossdissolve" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" zoomout="0" enabled="1" zoomspeed="2" delay="none" softedge="0" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" blendtime="1"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" contextfullscreen="1" speedwheel="1" sensitivity="8" invertwheel="0" zoomcentercursor="1" rubberband="0" contextvr="1" contextprojections="0" hideabout="0" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node22">
+    <input height="1824" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="1824" levelbias="0.400" overlap="1" levelingpitch="0" leveltilesize="510" levelingroll="0">
+      <level height="1824" width="1824" preload="0" predecode="0"/>
+      <level height="912" width="912" preload="0" predecode="0"/>
+      <level height="456" width="456" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="87.3713" fovmode="2">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" fov="140" pan="360" fovstereographic="330"/>
+    </view>
+    <userdata info="" nodeid="node22" datetime="4.01.2025 09:47" author="" copyright="" comment="" description="" source="" latitude="" heading="87.3713" tags="" longitude="" customnodeid="" title="Sağ Giriş1">
+      <mapcoords mapid="FloorPlan01" y_floorplan_percent="58.4838" x_floorplan_percent="76.4948" x="2.03796" y="-1.33484"/>
+      <mapcoords mapid="FloorPlan02" y_floorplan_percent="56.3177" x_floorplan_percent="77.3196" x="2.05994" y="-1.2854"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label height="20" textalpha="1" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" border="1" textcolor="0x000000" width="180" borderalpha="1" background="1" borderradius="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <polyhotspot target="" description="" id="Poly01" url="" title="Kamera Odası">
+        <polystring>-323.96/15.28|-17.95/14.9|-18.97/-44.26|-318.74/-40.97</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly02" url="" title="Depo2">
+        <polystring>-114.08/31.96|-144.92/18.9|-146.13/-46.15|-111.88/-61.87</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly03" url="" title="Depo 1">
+        <polystring>-26.49/21.33|-64.52/34.03|-63.98/-63.41|-23.72/-49.79</polystring>
+      </polyhotspot>
+      <hotspot skinid="ht_node" description="" target="97.0/-13.5/157.2" id="Point01" tilt="-4.29" url="{node23}" pan="-303.69" title=""/>
+      <hotspot skinid="ht_node" description="" target="108.2/-8.1/148.1" id="Point02" tilt="-1.2" url="{node5}" pan="-174.64" title=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" zoomout="0" enabled="1" zoomspeed="2" delay="none" softedge="0" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" blendtime="1"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" contextfullscreen="1" speedwheel="1" sensitivity="8" invertwheel="0" zoomcentercursor="1" rubberband="0" contextvr="1" contextprojections="0" hideabout="0" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node23">
+    <input height="1824" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="1824" levelbias="0.400" overlap="1" levelingpitch="0" leveltilesize="510" levelingroll="0">
+      <level height="1824" width="1824" preload="0" predecode="0"/>
+      <level height="912" width="912" preload="0" predecode="0"/>
+      <level height="456" width="456" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="86.493" fovmode="2">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" fov="140" pan="360" fovstereographic="330"/>
+    </view>
+    <userdata info="" nodeid="node23" datetime="4.01.2025 09:45" author="" copyright="" comment="" description="" source="" latitude="" heading="86.493" tags="" longitude="" customnodeid="" title="Sağ _Giriş2">
+      <mapcoords mapid="FloorPlan01" y_floorplan_percent="34.657" x_floorplan_percent="68.4536" x="1.82373" y="-0.791016"/>
+      <mapcoords mapid="FloorPlan02" y_floorplan_percent="26.4741" x_floorplan_percent="68.0412" x="1.81274" y="-0.604248"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label height="20" textalpha="1" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" border="1" textcolor="0x000000" width="180" borderalpha="1" background="1" borderradius="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot skinid="ht_node" description="" target="0.0/0.0/157.2" id="Point01" tilt="2.01" url="{node25}" pan="-266.14" title=""/>
+      <hotspot skinid="ht_node" description="" target="-106.7/-3.5/157.2" id="Point02" tilt="-2.42" url="{node22}" pan="-137.16" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point03" tilt="-28.51" url="images/1 2.jpeg" pan="-15.14" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point04" tilt="-32.14" url="images/2 2.jpeg" pan="-340.38" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point05" tilt="-27.73" url="images/WhatsApp Image 2025-02-03 at 14.49.09 3.jpeg" pan="-318.43" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point06" tilt="-25.64" url="images/Memi_Arba.jpeg" pan="-321.19" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point07" tilt="-16.87" url="images/WhatsApp Image 2025-02-03 at 14.49.09.jpeg" pan="-295.44" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point08" tilt="-17" url="images/WhatsApp Image 2025-02-03 at 14.49.08 3.jpeg" pan="-300.12" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point09" tilt="-19.04" url="images/Cengiz_Ceylan.jpeg" pan="-301.74" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point10" tilt="-28.42" url="images/Celal_Suluv.jpeg" pan="-221.81" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point11" tilt="-24.32" url="images/WhatsApp Image 2025-02-03 at 15.27.24.jpeg" pan="-215.34" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point12" tilt="-24.58" url="images/WhatsApp Image 2025-02-03 at 15.27.25.jpeg" pan="-233.9" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point14" tilt="-18.78" url="images/WhatsApp Image 2025-02-03 at 15.27.25 1.jpeg" pan="-240.04" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point13" tilt="-15.19" url="images/WhatsApp Image 2025-02-03 at 14.49.08 2.jpeg" pan="-305.38" title=""/>
+    </hotspots>
+    <media>
+      <image stretch="1.293" height="964" clickmode="1" popoutscaling="100" tilt="-13.960" fov="12.670" pan="60.210" handcursor="1" roty="26.820" width="1600" id="Element04" rotx="72.470" rotz="6.310" popbackmode="0" hidepinned="1">
+        <source url="media/4.jpeg"/>
+      </image>
+      <image stretch="0.905" height="1098" clickmode="1" popoutscaling="100" tilt="-25.159" fov="23.355" pan="140.726" handcursor="1" roty="-62.814" width="1600" id="Element05" rotx="14.588" rotz="-25.011" popbackmode="0" hidepinned="1">
+        <source url="media/37.jpeg"/>
+      </image>
+      <image stretch="2.000" height="1040" clickmode="1" popoutscaling="100" tilt="-13.399" fov="10.255" pan="120.912" handcursor="1" roty="-17.858" width="1600" id="Element06" rotx="49.102" rotz="-11.543" popbackmode="0" hidepinned="1">
+        <source url="media/36.jpeg"/>
+      </image>
+      <image stretch="0.735" height="1129" clickmode="1" popoutscaling="100" tilt="-22.290" fov="18.480" pan="-15.640" handcursor="1" roty="-17.480" width="1600" id="Element01" rotx="49.390" rotz="-7.200" popbackmode="0" hidepinned="1">
+        <source url="media/1.jpeg"/>
+      </image>
+      <image stretch="0.702" height="1037" clickmode="1" popoutscaling="100" tilt="-27.330" fov="18.960" pan="15.750" handcursor="1" roty="34.420" width="1600" id="Element02" rotx="54.160" rotz="0.100" popbackmode="0" hidepinned="1">
+        <source url="media/2.jpeg"/>
+      </image>
+      <image stretch="0.932" height="1034" clickmode="1" popoutscaling="100" tilt="-19.590" fov="15.710" pan="41.330" handcursor="1" roty="7.320" width="1600" id="Element03" rotx="-55.160" rotz="9.980" popbackmode="0" hidepinned="1">
+        <source url="media/3.jpeg"/>
+      </image>
+    </media>
+    <transition type="crossdissolve" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" zoomout="0" enabled="1" zoomspeed="2" delay="none" softedge="0" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" blendtime="1"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" contextfullscreen="1" speedwheel="1" sensitivity="8" invertwheel="0" zoomcentercursor="1" rubberband="0" contextvr="1" contextprojections="0" hideabout="0" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node25">
+    <input height="1824" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="1824" levelbias="0.400" overlap="1" levelingpitch="0" leveltilesize="510" levelingroll="0">
+      <level height="1824" width="1824" preload="0" predecode="0"/>
+      <level height="912" width="912" preload="0" predecode="0"/>
+      <level height="456" width="456" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" fov="140" pan="360" fovstereographic="330"/>
+    </view>
+    <userdata info="" nodeid="node25" datetime="4.01.2025 09:42" author="" copyright="" comment="" description="" source="" latitude="" heading="0" tags="" longitude="" customnodeid="" title="Sağ_Giriş3"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label height="20" textalpha="1" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" border="1" textcolor="0x000000" width="180" borderalpha="1" background="1" borderradius="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot skinid="ht_node" description="" target="0.0/0.0/157.2" id="Point01" tilt="1.08" url="{node26}" pan="-358.84" title=""/>
+      <hotspot skinid="ht_node" description="" target="-119.1/-7.3/157.2" id="Point02" tilt="-0.26" url="{node23}" pan="-178.28" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point03" tilt="-21.56" url="images/WhatsApp Image 2025-02-03 at 14.49.09.jpeg" pan="-144.24" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point05" tilt="-24.28" url="images/WhatsApp Image 2025-02-03 at 14.49.08 1.jpeg" pan="-123.65" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point06" tilt="-24.46" url="images/WhatsApp Image 2025-02-03 at 14.49.07 4.jpeg" pan="-134.44" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point08" tilt="-26.23" url="images/WhatsApp Image 2025-02-03 at 14.49.07 2.jpeg" pan="-102.21" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point09" tilt="-33.85" url="images/WhatsApp Image 2025-02-03 at 14.49.07 3.jpeg" pan="-98.64" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point10" tilt="-32.11" url="images/smail_Da.jpeg" pan="-74.53" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point12" tilt="-27.05" url="images/WhatsApp Image 2025-02-03 at 14.49.07 1.jpeg" pan="-62.92" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point13" tilt="-23.49" url="images/Mehmet_Meral.jpeg" pan="-36.38" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point14" tilt="-24.46" url="images/WhatsApp Image 2025-02-03 at 14.49.06 2.jpeg" pan="-54.58" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point15" tilt="-27.63" url="images/WhatsApp Image 2025-02-03 at 14.49.06 1.jpeg" pan="-51.18" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point16" tilt="-17.8" url="images/Yusuf_Elita.jpeg" pan="-32.78" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point17" tilt="-17.44" url="images/WhatsApp Image 2025-02-03 at 14.49.05 3.jpeg" pan="-27.3" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point18" tilt="-18.43" url="images/WhatsApp Image 2025-02-03 at 15.27.25 1.jpeg" pan="-203.76" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point19" tilt="-22.83" url="images/WhatsApp Image 2025-02-03 at 15.27.25 2.jpeg" pan="-215.16" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point20" tilt="-26.74" url="images/Recep_nce.jpeg" pan="-226.95" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point21" tilt="-31.78" url="images/WhatsApp Image 2025-02-03 at 15.27.25 3.jpeg" pan="-263.29" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point22" tilt="-31.65" url="images/enolAltn.jpeg" pan="-243.3" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point23" tilt="-31.07" url="images/WhatsApp Image 2025-02-03 at 15.27.26 4.jpeg" pan="-283.98" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point24" tilt="-39.38" url="images/WhatsApp Image 2025-02-03 at 15.27.26 3.jpeg" pan="-283.47" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point25" tilt="-29.65" url="images/Ali_Rza_Altn.jpeg" pan="-302.35" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point26" tilt="-34" url="images/WhatsApp Image 2025-02-03 at 15.27.26 2.jpeg" pan="-301.9" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point27" tilt="-22.79" url="images/WhatsApp Image 2025-02-03 at 15.27.27 1.jpeg" pan="-322.05" title=""/>
+      <hotspot skinid="ht_image" description="" target="" id="Point28" tilt="-19.82" url="images/Yusuf_Elita.jpeg" pan="-28.86" title=""/>
+    </hotspots>
+    <media>
+      <image stretch="1.109" height="1115" clickmode="1" popoutscaling="100" tilt="-21.217" fov="10.062" pan="-129.760" handcursor="1" roty="-21.919" width="1600" id="Element01" rotx="45.746" rotz="4.045" popbackmode="0" hidepinned="1">
+        <source url="media/5-1.jpeg"/>
+      </image>
+      <image stretch="0.500" height="1053" clickmode="1" popoutscaling="100" tilt="-26.815" fov="23.536" pan="-108.279" handcursor="1" roty="-44.947" width="1599" id="Element02" rotx="9.376" rotz="-3.392" popbackmode="0" hidepinned="1">
+        <source url="media/6-1.jpeg"/>
+      </image>
+      <image stretch="2.000" height="1118" clickmode="1" popoutscaling="100" tilt="-27.900" fov="16.630" pan="-68.910" handcursor="1" roty="8.810" width="1600" id="Element03" rotx="61.950" rotz="13.950" popbackmode="0" hidepinned="1">
+        <source url="media/7-1.jpeg"/>
+      </image>
+      <image stretch="0.562" height="1101" clickmode="1" popoutscaling="100" tilt="-19.447" fov="17.252" pan="-41.259" handcursor="1" roty="25.906" width="1600" id="Element04" rotx="1.466" rotz="2.857" popbackmode="0" hidepinned="1">
+        <source url="media/8 .jpeg"/>
+      </image>
+      <image stretch="2.000" height="996" clickmode="1" popoutscaling="100" tilt="-22.408" fov="9.244" pan="137.899" handcursor="1" roty="-8.248" width="1600" id="Element05" rotx="41.236" rotz="3.464" popbackmode="0" hidepinned="1">
+        <source url="media/35.jpeg"/>
+      </image>
+      <image stretch="0.566" height="1065" clickmode="1" popoutscaling="100" tilt="-28.576" fov="21.906" pan="103.190" handcursor="1" roty="-41.661" width="1599" id="Element06" rotx="14.423" rotz="15.441" popbackmode="0" hidepinned="1">
+        <source url="media/34.jpeg"/>
+      </image>
+      <image stretch="1.590" height="989" clickmode="1" popoutscaling="100" tilt="-25.654" fov="22.171" pan="68.651" handcursor="1" roty="-0.818" width="1600" id="Element07" rotx="54.621" rotz="-6.773" popbackmode="0" hidepinned="1">
+        <source url="media/33.jpeg"/>
+      </image>
+      <image stretch="1.567" height="1166" clickmode="1" popoutscaling="100" tilt="-20.393" fov="12.081" pan="44.655" handcursor="1" roty="-7.906" width="1600" id="Element08" rotx="51.998" rotz="-11.725" popbackmode="0" hidepinned="1">
+        <source url="media/32.jpg"/>
+      </image>
+    </media>
+    <transition type="crossdissolve" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" zoomout="0" enabled="1" zoomspeed="2" delay="none" softedge="0" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" blendtime="1"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" contextfullscreen="1" speedwheel="1" sensitivity="8" invertwheel="0" zoomcentercursor="1" rubberband="0" contextvr="1" contextprojections="0" hideabout="0" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node26">
+    <input height="1824" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="1824" levelbias="0.400" overlap="1" levelingpitch="0" leveltilesize="510" levelingroll="0">
+      <level height="1824" width="1824" preload="0" predecode="0"/>
+      <level height="912" width="912" preload="0" predecode="0"/>
+      <level height="456" width="456" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-1.3551" fovmode="2">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" fov="140" pan="360" fovstereographic="330"/>
+    </view>
+    <userdata info="" nodeid="node26" datetime="4.01.2025 09:41" author="" copyright="" comment="" description="" source="" latitude="" heading="-1.3551" tags="" longitude="" customnodeid="" title="Sağ_Giriş4"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label height="20" textalpha="1" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" border="1" textcolor="0x000000" width="180" borderalpha="1" background="1" borderradius="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot skinid="ht_node" description="" target="-176.5/-2.9/157.2" id="Point01" tilt="0.16" url="{node27}" pan="-356.2" title=""/>
+      <hotspot skinid="ht_node" description="" target="-177.5/-0.1/157.2" id="Point02" tilt="0.06" url="{node25}" pan="-174.03" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point03" tilt="-18.97" url="images/smail_Da.jpeg" pan="-143.1" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point05" tilt="-19.76" url="images/WhatsApp Image 2025-02-03 at 14.49.07 1.jpeg" pan="-135.96" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point06" tilt="-21.91" url="images/WhatsApp Image 2025-02-03 at 14.49.06 2.jpeg" pan="-119.48" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point07" tilt="-23.82" url="images/WhatsApp Image 2025-02-03 at 14.49.06 1.jpeg" pan="-133.53" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point08" tilt="-27.75" url="images/Mehmet_Meral.jpeg" pan="-122.41" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point09" tilt="-32.5" url="images/WhatsApp Image 2025-02-03 at 14.49.05 3.jpeg" pan="-85.83" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point10" tilt="-32.12" url="images/Yusuf_Elita.jpeg" pan="-102.23" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point11" tilt="-30.62" url="images/WhatsApp Image 2025-02-03 at 14.49.05 1.jpeg" pan="-71.58" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point12" tilt="-28.11" url="images/WhatsApp Image 2025-02-03 at 14.49.05.jpeg" pan="-55.24" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point13" tilt="-24.69" url="images/WhatsApp Image 2025-02-03 at 14.49.04 4.jpeg" pan="-36.53" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point14" tilt="-26.55" url="images/Ramazan_Akbulut.jpeg" pan="-43.9" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point15" tilt="-19.74" url="images/Alper_Balc 2.jpeg" pan="-34.97" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point18" tilt="-17.51" url="images/WhatsApp Image 2025-02-03 at 15.27.26 4.jpeg" pan="-205.96" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point19" tilt="-18.76" url="images/WhatsApp Image 2025-02-03 at 15.27.26 3.jpeg" pan="-199.37" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point20" tilt="-22.13" url="images/WhatsApp Image 2025-02-03 at 15.27.26 2.jpeg" pan="-206.61" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point21" tilt="-22.06" url="images/Ali_Rza_Altn.jpeg" pan="-211.44" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point22" tilt="-15.27" url="images/WhatsApp Image 2025-02-03 at 15.27.25 3.jpeg" pan="-202.13" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point23" tilt="-14.54" url="images/enolAltn.jpeg" pan="-197.39" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point24" tilt="-28.46" url="images/WhatsApp Image 2025-02-03 at 15.27.27 1.jpeg" pan="-220.28" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point26" tilt="-34.62" url="images/Mehmet_Ali_Demir.jpeg" pan="-292.69" title=""/>
+    </hotspots>
+    <media>
+      <image stretch="0.500" height="1101" clickmode="1" popoutscaling="100" tilt="-20.552" fov="24.192" pan="-126.330" handcursor="1" roty="-58.505" width="1600" id="Element01" rotx="27.382" rotz="-0.794" popbackmode="0" hidepinned="1">
+        <source url="media/8 .jpeg"/>
+      </image>
+      <image stretch="0.937" height="1016" clickmode="1" popoutscaling="100" tilt="-26.530" fov="19.200" pan="-98.940" handcursor="1" roty="-32.360" width="1600" id="Element02" rotx="25.410" rotz="1.020" popbackmode="0" hidepinned="1">
+        <source url="media/9-1.jpeg"/>
+      </image>
+      <image stretch="0.585" height="1130" clickmode="1" popoutscaling="100" tilt="-20.326" fov="18.744" pan="-40.886" handcursor="1" roty="-48.558" width="1600" id="Element04" rotx="-14.984" rotz="12.266" popbackmode="0" hidepinned="1">
+        <source url="media/11-1.jpeg"/>
+      </image>
+      <image stretch="1.610" height="1166" clickmode="1" popoutscaling="100" tilt="-23.494" fov="13.555" pan="138.283" handcursor="1" roty="14.021" width="1600" id="Element05" rotx="47.301" rotz="8.919" popbackmode="0" hidepinned="1">
+        <source url="media/32.jpg"/>
+      </image>
+      <image stretch="1.130" height="1026" clickmode="1" popoutscaling="100" tilt="-33.021" fov="24.665" pan="105.142" handcursor="1" roty="2.266" width="1600" id="Element06" rotx="-42.130" rotz="2.487" popbackmode="0" hidepinned="1">
+        <source url="media/31.jpeg"/>
+      </image>
+      <image stretch="1.469" height="1041" clickmode="1" popoutscaling="100" tilt="-27.055" fov="19.978" pan="65.014" handcursor="1" roty="-16.883" width="1600" id="Element07" rotx="44.872" rotz="-6.642" popbackmode="0" hidepinned="1">
+        <source url="media/30.jpeg"/>
+      </image>
+      <image stretch="1.998" height="1011" clickmode="1" popoutscaling="100" tilt="-20.880" fov="11.113" pan="41.936" handcursor="1" roty="17.594" width="1600" id="Element08" rotx="-48.800" rotz="-12.322" popbackmode="0" hidepinned="1">
+        <source url="media/29.jpeg"/>
+      </image>
+      <image stretch="2.000" height="1037" clickmode="1" popoutscaling="100" tilt="-23.650" fov="9.603" pan="-64.365" handcursor="1" roty="5.770" width="1600" id="Element03" rotx="-55.332" rotz="9.452" popbackmode="0" hidepinned="1">
+        <source url="media/10-1.jpeg"/>
+      </image>
+    </media>
+    <transition type="crossdissolve" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" zoomout="0" enabled="1" zoomspeed="2" delay="none" softedge="0" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" blendtime="1"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" contextfullscreen="1" speedwheel="1" sensitivity="8" invertwheel="0" zoomcentercursor="1" rubberband="0" contextvr="1" contextprojections="0" hideabout="0" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node27">
+    <input height="1824" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="1824" levelbias="0.400" overlap="1" levelingpitch="0" leveltilesize="510" levelingroll="0">
+      <level height="1824" width="1824" preload="0" predecode="0"/>
+      <level height="912" width="912" preload="0" predecode="0"/>
+      <level height="456" width="456" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-164.572" fovmode="2">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" fov="140" pan="360" fovstereographic="330"/>
+    </view>
+    <userdata info="" nodeid="node27" datetime="4.01.2025 09:40" author="" copyright="" comment="" description="" source="" latitude="" heading="-164.572" tags="" longitude="" customnodeid="" title="Sağ_Giriş5"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label height="20" textalpha="1" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" border="1" textcolor="0x000000" width="180" borderalpha="1" background="1" borderradius="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot skinid="ht_node" description="" target="-174.5/-7.2/134.3" id="Point01" tilt="1.38" url="{node28}" pan="-176.64" title=""/>
+      <hotspot skinid="ht_node" description="" target="-178.0/-3.1/145.3" id="Point02" tilt="-1.53" url="{node26}" pan="-354.31" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point03" tilt="-14.89" url="images/Yusuf_Elita.jpeg" pan="-329.98" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point04" tilt="-17.52" url="images/WhatsApp Image 2025-02-03 at 14.49.05 3.jpeg" pan="-326.51" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point05" tilt="-17" url="images/WhatsApp Image 2025-02-03 at 14.49.05 1.jpeg" pan="-316.61" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point06" tilt="-21.05" url="images/WhatsApp Image 2025-02-03 at 14.49.05.jpeg" pan="-314.03" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point07" tilt="-28.77" url="images/WhatsApp Image 2025-02-03 at 14.49.04 4.jpeg" pan="-297.95" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point08" tilt="-25.51" url="images/Ramazan_Akbulut.jpeg" pan="-308.41" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point09" tilt="-24.44" url="images/Alper_Balc.jpeg" pan="-290.64" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point12" tilt="-30.98" url="images/WhatsApp Image 2025-02-03 at 14.49.03 3.jpeg" pan="-242.22" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point13" tilt="-19.56" url="images/Mehmet_Sevim.jpeg" pan="-211.01" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point14" tilt="-12.33" url="images/Ecevit_Altan.jpeg" pan="-202.45" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point15" tilt="-16.16" url="images/MuhammedErkesiba.jpeg" pan="-206.8" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point16" tilt="-19.72" url="images/Mehmet_Ali_Demir.jpeg" pan="-26" title=""/>
+    </hotspots>
+    <media>
+      <image stretch="1.154" height="1130" clickmode="1" popoutscaling="100" tilt="-22.358" fov="12.275" pan="61.842" handcursor="1" roty="-27.751" width="1600" id="Element01" rotx="-6.773" rotz="-7.243" popbackmode="0" hidepinned="1">
+        <source url="media/11-1.jpeg"/>
+      </image>
+      <image stretch="0.630" height="1150" clickmode="1" popoutscaling="100" tilt="-27.166" fov="14.622" pan="88.479" handcursor="1" roty="15.882" width="1599" id="Element02" rotx="-3.348" rotz="-2.632" popbackmode="0" hidepinned="1">
+        <source url="media/12-1.jpeg"/>
+      </image>
+      <image stretch="0.709" height="996" clickmode="1" popoutscaling="100" tilt="-24.036" fov="19.524" pan="122.657" handcursor="1" roty="41.015" width="1600" id="Element03" rotx="12.736" rotz="8.798" popbackmode="0" hidepinned="1">
+        <source url="media/13.jpeg"/>
+      </image>
+      <image stretch="1.725" height="1041" clickmode="1" popoutscaling="100" tilt="-17.604" fov="12.932" pan="143.055" handcursor="1" roty="-2.726" width="1600" id="Element04" rotx="53.727" rotz="14.891" popbackmode="0" hidepinned="1">
+        <source url="media/14.jpeg"/>
+      </image>
+      <image stretch="1.979" height="1041" clickmode="1" popoutscaling="100" tilt="-21.068" fov="10.730" pan="-31.692" handcursor="1" roty="-0.429" width="1600" id="Element05" rotx="60.371" rotz="-0.282" popbackmode="0" hidepinned="1">
+        <source url="media/30.jpeg"/>
+      </image>
+      <image stretch="1.798" height="1011" clickmode="1" popoutscaling="100" tilt="-27.040" fov="14.220" pan="-51.610" handcursor="1" roty="20.362" width="1600" id="Element06" rotx="43.877" rotz="19.954" popbackmode="0" hidepinned="1">
+        <source url="media/29.jpeg"/>
+      </image>
+      <image stretch="1.020" height="987" clickmode="1" popoutscaling="100" tilt="-32.878" fov="18.102" pan="-85.297" handcursor="1" roty="24.916" width="1600" id="Element07" rotx="20.792" rotz="-3.964" popbackmode="0" hidepinned="1">
+        <source url="media/28.jpeg"/>
+      </image>
+      <image stretch="1.207" height="1057" clickmode="1" popoutscaling="100" tilt="-26.343" fov="19.663" pan="-122.468" handcursor="1" roty="-25.774" width="1600" id="Element08" rotx="32.780" rotz="-9.214" popbackmode="0" hidepinned="1">
+        <source url="media/27.jpeg"/>
+      </image>
+      <image stretch="1.243" height="1039" clickmode="1" popoutscaling="100" tilt="-18.037" fov="13.880" pan="-143.423" handcursor="1" roty="-27.555" width="1600" id="Element09" rotx="28.664" rotz="-13.027" popbackmode="0" hidepinned="1">
+        <source url="media/26.jpeg"/>
+      </image>
+    </media>
+    <transition type="crossdissolve" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" zoomout="0" enabled="1" zoomspeed="2" delay="none" softedge="0" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" blendtime="1"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" contextfullscreen="1" speedwheel="1" sensitivity="8" invertwheel="0" zoomcentercursor="1" rubberband="0" contextvr="1" contextprojections="0" hideabout="0" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node28">
+    <input height="1824" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="1824" levelbias="0.400" overlap="1" levelingpitch="0" leveltilesize="510" levelingroll="0">
+      <level height="1824" width="1824" preload="0" predecode="0"/>
+      <level height="912" width="912" preload="0" predecode="0"/>
+      <level height="456" width="456" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-175.885" fovmode="2">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" fov="140" pan="360" fovstereographic="330"/>
+    </view>
+    <userdata info="" nodeid="node28" datetime="4.01.2025 09:38" author="" copyright="" comment="" description="" source="" latitude="" heading="-175.885" tags="" longitude="" customnodeid="" title="Sağ_Giriş6"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label height="20" textalpha="1" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" border="1" textcolor="0x000000" width="180" borderalpha="1" background="1" borderradius="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot skinid="ht_node" description="" target="179.9/-5.6/100.3" id="Point01" tilt="0.47" url="{node29}" pan="-175.76" title=""/>
+      <hotspot skinid="ht_node" description="" target="6.0/-1.9/145.3" id="Point02" tilt="-1.65" url="{node27}" pan="-354.42" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point05" tilt="-18.89" url="images/WhatsApp Image 2025-02-03 at 14.49.03 3.jpeg" pan="-318.82" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point06" tilt="-28.45" url="images/Mehmet_Sevim.jpeg" pan="-290.37" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point07" tilt="-31.99" url="images/Muhammed_Erkesiba.jpeg" pan="-273.73" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point08" tilt="-26.2" url="images/Ecevit_Altan.jpeg" pan="-255.81" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point09" tilt="-24.94" url="images/Ayhan_Demirel.jpeg" pan="-221.57" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point10" tilt="-24.25" url="images/Yunus_Emre_Akba.jpeg" pan="-239.1" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point11" tilt="-21.56" url="images/Yavuz_Bayal.jpeg" pan="-215.12" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point15" tilt="-37.82" url="images/smail_Akdoan.jpeg" pan="-77.47" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point16" tilt="-28.41" url="images/WhatsApp Image 2025-02-03 at 15.27.29.jpeg" pan="-117.08" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point17" tilt="-34.48" url="images/WhatsApp Image 2025-02-03 at 15.27.29 1.jpeg" pan="-121.75" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point19" tilt="-18.88" url="images/Kazm_Ay.jpeg" pan="-145.2" title=""/>
+    </hotspots>
+    <media>
+      <image stretch="0.876" height="1041" clickmode="1" popoutscaling="100" tilt="-22.147" fov="18.471" pan="60.765" handcursor="1" roty="-17.946" width="1600" id="Element01" rotx="12.896" rotz="-4.836" popbackmode="0" hidepinned="1">
+        <source url="media/14.jpeg"/>
+      </image>
+      <image stretch="1.021" height="981" clickmode="1" popoutscaling="100" tilt="-27.350" fov="19.627" pan="96.936" handcursor="1" roty="24.308" width="1600" id="Element02" rotx="5.186" rotz="0.051" popbackmode="0" hidepinned="1">
+        <source url="media/15.jpeg"/>
+      </image>
+      <image stretch="1.868" height="953" clickmode="1" popoutscaling="100" tilt="-22.897" fov="14.078" pan="129.842" handcursor="1" roty="9.397" width="1600" id="Element03" rotx="52.390" rotz="7.712" popbackmode="0" hidepinned="1">
+        <source url="media/16.jpeg"/>
+      </image>
+      <image stretch="1.046" height="1057" clickmode="1" popoutscaling="100" tilt="-24.107" fov="14.097" pan="-35.577" handcursor="1" roty="-29.280" width="1600" id="Element04" rotx="-7.720" rotz="10.479" popbackmode="0" hidepinned="1">
+        <source url="media/27.jpeg"/>
+      </image>
+      <image stretch="1.197" height="1039" clickmode="1" popoutscaling="100" tilt="-30.129" fov="15.933" pan="-53.966" handcursor="1" roty="-2.517" width="1600" id="Element05" rotx="28.077" rotz="7.225" popbackmode="0" hidepinned="1">
+        <source url="media/26.jpeg"/>
+      </image>
+      <image stretch="1.257" height="1072" clickmode="1" popoutscaling="100" tilt="-31.825" fov="19.378" pan="-89.313" handcursor="1" roty="-6.089" width="1600" id="Element06" rotx="49.620" rotz="2.886" popbackmode="0" hidepinned="1">
+        <source url="media/25.jpeg"/>
+      </image>
+      <image stretch="1.360" height="990" clickmode="1" popoutscaling="100" tilt="-26.285" fov="17.372" pan="-128.047" handcursor="1" roty="-31.297" width="1599" id="Element07" rotx="53.058" rotz="-4.452" popbackmode="0" hidepinned="1">
+        <source url="media/24.jpeg"/>
+      </image>
+    </media>
+    <transition type="crossdissolve" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" zoomout="0" enabled="1" zoomspeed="2" delay="none" softedge="0" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" blendtime="1"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" contextfullscreen="1" speedwheel="1" sensitivity="8" invertwheel="0" zoomcentercursor="1" rubberband="0" contextvr="1" contextprojections="0" hideabout="0" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node29">
+    <input height="1824" leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="1824" levelbias="0.400" overlap="1" levelingpitch="0" leveltilesize="510" levelingroll="0">
+      <level height="1824" width="1824" preload="0" predecode="0"/>
+      <level height="912" width="912" preload="0" predecode="0"/>
+      <level height="456" width="456" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-179.353" fovmode="2">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" fov="140" pan="360" fovstereographic="330"/>
+    </view>
+    <userdata info="" nodeid="node29" datetime="4.01.2025 09:37" author="" copyright="" comment="" description="" source="" latitude="" heading="-179.353" tags="" longitude="" customnodeid="" title="Sağ_Giriş7"/>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label height="20" textalpha="1" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" border="1" textcolor="0x000000" width="180" borderalpha="1" background="1" borderradius="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot skinid="ht_node" description="" target="-6.5/-4.6/157.2" id="Point01" tilt="4.7" url="{node34}" pan="-115.8" title=""/>
+      <hotspot skinid="ht_node" description="" target="2.7/1.5/148.1" id="Point02" tilt="-0.71" url="{node28}" pan="-355.4" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point03" tilt="-15.8" url="images/MuhammedErkesiba.jpeg" pan="-331.68" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point04" tilt="-15.2" url="images/Ecevit_Altan.jpeg" pan="-325.98" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point05" tilt="-24.96" url="images/Ayhan_Demirel.jpeg" pan="-312.36" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point06" tilt="-18.5" url="images/Yunus_Emre_Akba.jpeg" pan="-316.31" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point07" tilt="-27.73" url="images/Yavuz_Bayal.jpeg" pan="-300.5" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point08" tilt="-29.2" url="images/Mikail_Candan.jpeg" pan="-251.04" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point09" tilt="-28.79" url="images/Kadir_Yldz.jpeg" pan="-229.66" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point10" tilt="-24.27" url="images/Faruk_Eser.jpeg" pan="-220.81" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point11" tilt="-17.69" url="images/ahin_Sarlmaz.jpeg" pan="-208.52" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point12" tilt="-16.83" url="images/WhatsApp Image 2025-02-03 at 14.49.01 1.jpeg" pan="-211.77" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point13" tilt="-14.04" url="images/WhatsApp Image 2025-02-03 at 14.49.01.jpeg" pan="-199.11" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point14" tilt="-14.26" url="images/WhatsApp Image 2025-02-03 at 14.49.00 2.jpeg" pan="-207.45" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point15" tilt="-16.28" url="images/WhatsApp Image 2025-02-03 at 14.49.00 1.jpeg" pan="-202.95" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point16" tilt="-14.26" url="images/WhatsApp Image 2025-02-03 at 14.49.00.jpeg" pan="-204.54" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point17" tilt="-22.14" url="images/WhatsApp Image 2025-02-03 at 15.27.29.jpeg" pan="-37.57" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point18" tilt="-23.87" url="images/WhatsApp Image 2025-02-03 at 15.27.29 1.jpeg" pan="-29.03" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point20" tilt="-32.48" url="images/Kazm_Ay.jpeg" pan="-70.6" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point22" tilt="-31.71" url="images/Salih_Aksu.jpeg" pan="-105.21" title=""/>
+    </hotspots>
+    <media>
+      <image stretch="0.976" height="1042" clickmode="1" popoutscaling="100" tilt="-25.037" fov="19.298" pan="68.046" handcursor="1" roty="-28.404" width="1600" id="Element01" rotx="26.211" rotz="-7.774" popbackmode="0" hidepinned="1">
+        <source url="media/17.jpeg"/>
+      </image>
+      <image stretch="1.999" height="1030" clickmode="1" popoutscaling="100" tilt="-27.588" fov="17.574" pan="100.065" handcursor="1" roty="0.045" width="1600" id="Element02" rotx="66.391" rotz="4.194" popbackmode="0" hidepinned="1">
+        <source url="media/18.jpeg"/>
+      </image>
+      <image stretch="0.500" height="1175" clickmode="1" popoutscaling="100" tilt="-21.218" fov="16.917" pan="131.955" handcursor="1" roty="45.175" width="1600" id="Element03" rotx="0.399" rotz="2.564" popbackmode="0" hidepinned="1">
+        <source url="media/19.jpeg"/>
+      </image>
+      <image stretch="0.793" height="1000" clickmode="1" popoutscaling="100" tilt="-16.394" fov="6.124" pan="149.945" handcursor="1" roty="35.181" width="1600" id="Element04" rotx="19.417" rotz="-2.302" popbackmode="0" hidepinned="1">
+        <source url="media/20.jpeg"/>
+      </image>
+      <image stretch="0.926" height="1031" clickmode="1" popoutscaling="100" tilt="-12.242" fov="11.482" pan="156.348" handcursor="1" roty="49.506" width="1600" id="Element05" rotx="61.718" rotz="-14.620" popbackmode="0" hidepinned="1">
+        <source url="media/21.jpeg"/>
+      </image>
+      <image stretch="0.939" height="990" clickmode="1" popoutscaling="100" tilt="-23.087" fov="16.471" pan="-34.554" handcursor="1" roty="43.342" width="1599" id="Element07" rotx="1.288" rotz="15.625" popbackmode="0" hidepinned="1">
+        <source url="media/24.jpeg"/>
+      </image>
+      <image stretch="1.905" height="1061" clickmode="1" popoutscaling="100" tilt="-29.532" fov="14.418" pan="-59.714" handcursor="1" roty="0.070" width="1599" id="Element08" rotx="47.673" rotz="6.130" popbackmode="0" hidepinned="1">
+        <source url="media/23.jpeg"/>
+      </image>
+      <image stretch="1.339" height="1058" clickmode="1" popoutscaling="100" tilt="-32.234" fov="15.647" pan="-102.612" handcursor="1" roty="7.232" width="1600" id="Element09" rotx="44.101" rotz="-4.945" popbackmode="0" hidepinned="1">
+        <source url="media/22.jpeg"/>
+      </image>
+    </media>
+    <transition type="crossdissolve" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" zoomout="0" enabled="1" zoomspeed="2" delay="none" softedge="0" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" blendtime="1"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" contextfullscreen="1" speedwheel="1" sensitivity="8" invertwheel="0" zoomcentercursor="1" rubberband="0" contextvr="1" contextprojections="0" hideabout="0" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node34">
+    <input height="1824" leveltileurl="tiles/node34/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="1824" levelbias="0.400" overlap="1" levelingpitch="0" leveltilesize="510" levelingroll="0">
+      <level height="1824" width="1824" preload="0" predecode="0"/>
+      <level height="912" width="912" preload="0" predecode="0"/>
+      <level height="456" width="456" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="253.282" fovmode="2">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" fov="140" pan="360" fovstereographic="330"/>
+    </view>
+    <userdata info="" nodeid="node34" datetime="4.01.2025 09:29" author="" copyright="" comment="" description="" source="" latitude="" heading="253.282" tags="" longitude="" customnodeid="" title="Sağ_Giriş8">
+      <mapcoords mapid="FloorPlan01" y_floorplan_percent="22.864" x_floorplan_percent="41.4433" x="1.10413" y="-0.521851"/>
+      <mapcoords mapid="FloorPlan02" y_floorplan_percent="21.6606" x_floorplan_percent="38.1443" x="1.01624" y="-0.494385"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label height="20" textalpha="1" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" border="1" textcolor="0x000000" width="180" borderalpha="1" background="1" borderradius="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot skinid="ht_node" description="" target="116.1/9.2/157.2" id="Point01" tilt="6.34" url="{node29}" pan="-185.8" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point05" tilt="-13.35" url="images/Lokman_Ak�alayan.jpeg" pan="-316.1" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point06" tilt="-17.65" url="images/Ahmet_L�tf�_Telli.jpeg" pan="-301.01" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point07" tilt="-20.67" url="images/WhatsApp Image 2025-02-03 at 15.44.59 2.jpeg" pan="-275.11" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point08" tilt="-18.4" url="images/Rasim_Bozkurt.jpeg" pan="-279.25" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point09" tilt="-17.75" url="images/WhatsApp Image 2025-02-03 at 15.44.59 3.jpeg" pan="-286.67" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point02" tilt="-15.79" url="images/Yavuz_�oban.jpeg" pan="-343.2" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point03" tilt="-14.99" url="images/Attila_Mutlu.jpeg" pan="-337.27" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point10" tilt="-15.31" url="images/Yaar_Ge�gil.jpeg" pan="-350.21" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point11" tilt="-22.66" url="images/Erdal_Akbulut.jpeg" pan="-99.72" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point12" tilt="-20.92" url="images/WhatsApp Image 2025-02-03 at 15.44.57 1.jpeg" pan="-73.72" title=""/>
+      <hotspot skinid="ht_image" description="" target="_blank" id="Point13" tilt="-15.93" url="images/Tunahan_Erba.jpeg" pan="-47.37" title=""/>
+      <polyhotspot target="" description="" id="Poly01" url="" title="Lokman Akçağlayan">
+        <polystring>-308.94/-3.33|-311.13/-3.31|-311.11/-0.27|-308.85/-0.27</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly02" url="" title="Ahmet Lütfi Telli">
+        <polystring>-294.93/-0.81|-300.09/-0.58|-300.24/-8.45|-294.82/-8.64</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly03" url="" title="Rasim Bozkurt">
+        <polystring>-285.85/-4.01|-289.23/-3.98|-289.12/-8.73|-285.8/-8.54</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly04" url="" title="Dursun Çetin">
+        <polystring>-272.57/-0.55|-277.19/-0.64|-277.15/-7.08|-272.64/-7.22</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly05" url="" title="Mustafa Ergen">
+        <polystring>-259.78/2.07|-262.86/2.15|-263.02/-2.72|-259.56/-3.01</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly06" url="" title="Yaşar Bayraktar ">
+        <polystring>-19.66/-3.05|-22.75/-2.99|-22.58/-6.91|-19.23/-7.32</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly07" url="" title="Süleyman Köse">
+        <polystring>-18.09/2.79|-23.63/2.6|-23.86/-1.63|-18.1/-1.59</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly08" url="" title="Halil Köksal">
+        <polystring>-18.07/12.26|-23.67/11.94|-23.5/4.32|-17.75/4.39|-17.76/4.48</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly09" url="" title="Yaşar Geçgil">
+        <polystring>-337.44/-4.62|-341.73/-4.85|-341.81/-8.52|-336.97/-8.59|-337.29/-8.35</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly10" url="" title="Atilla Mutlu">
+        <polystring>-337.31/4.37|-341.55/4.41|-341.75/-1.39|-337.28/-1.08</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly11" url="" title="Tunahan Erbaşı">
+        <polystring>-49.71/-2.83|-51.39/-2.93|-51.53/-6.54|-49.7/-6.49</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly12" url="" title="Yücel Samsa">
+        <polystring>-60.95/-2.85|-63.9/-3.01|-64.13/-8.18|-60.79/-8.16</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly13" url="" title="Önder Güzel">
+        <polystring>-75.99/-2.74|-80.42/-2.5|-80.36/-6.98|-75.78/-7.19|-75.78/-7.19|-75.78/-7.34</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly14" url="" title="Sinan Kunduracı">
+        <polystring>-86.27/-3.79|-90.01/-3.95|-90.02/-6.28|-85.96/-6.43</polystring>
+      </polyhotspot>
+      <polyhotspot target="" description="" id="Poly15" url="" title="Erdal Akbulut">
+        <polystring>-98.79/-3.05|-103.52/-3.06|-103.59/-9.13|-98.49/-9.23</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <image stretch="1.000" height="1376" clickmode="1" popoutscaling="100" tilt="-38.770" fov="30.000" pan="-8.130" handcursor="1" roty="0.000" width="2048" id="Element01" rotx="0.000" rotz="0.000" popbackmode="0" hidepinned="1">
+        <source url="media/WhatsApp Image 2025-02-02 at 14.52.17 3.jpeg"/>
+      </image>
+      <image stretch="0.502" height="1362" clickmode="1" popoutscaling="100" tilt="-18.208" fov="21.156" pan="-107.401" handcursor="1" roty="-36.829" width="1983" id="Element02" rotx="42.647" rotz="-6.183" popbackmode="0" hidepinned="1">
+        <source url="media/WhatsApp Image 2025-02-02 at 14.52.15 3.jpeg"/>
+      </image>
+      <image stretch="0.500" height="1329" clickmode="1" popoutscaling="100" tilt="-19.307" fov="21.626" pan="-81.887" handcursor="1" roty="-30.768" width="1972" id="Element03" rotx="10.108" rotz="12.477" popbackmode="0" hidepinned="1">
+        <source url="media/WhatsApp Image 2025-02-02 at 14.52.15 2.jpeg"/>
+      </image>
+      <image stretch="1.622" height="1273" clickmode="1" popoutscaling="100" tilt="-17.118" fov="10.627" pan="-58.816" handcursor="1" roty="8.360" width="2002" id="Element04" rotx="65.215" rotz="5.270" popbackmode="0" hidepinned="1">
+        <source url="media/WhatsApp Image 2025-02-02 at 14.52.15 1.jpeg"/>
+      </image>
+      <image stretch="1.971" height="1184" clickmode="1" popoutscaling="100" tilt="-13.130" fov="7.701" pan="-44.413" handcursor="1" roty="11.870" width="2048" id="Element05" rotx="60.789" rotz="11.459" popbackmode="0" hidepinned="1">
+        <source url="media/WhatsApp Image 2025-02-02 at 14.52.15.jpeg"/>
+      </image>
+      <image stretch="2.000" height="1451" clickmode="1" popoutscaling="100" tilt="-13.875" fov="7.159" pan="-22.421" handcursor="1" roty="-16.727" width="1792" id="Element06" rotx="69.854" rotz="-9.695" popbackmode="0" hidepinned="1">
+        <source url="media/WhatsApp Image 2025-02-02 at 14.52.15 4.jpeg"/>
+      </image>
+      <image stretch="1.269" height="1384" clickmode="1" popoutscaling="100" tilt="-14.639" fov="9.907" pan="-9.329" handcursor="1" roty="15.620" width="1845" id="Element07" rotx="-62.854" rotz="0.599" popbackmode="0" hidepinned="1">
+        <source url="media/WhatsApp Image 2025-02-02 at 14.52.16.jpeg"/>
+      </image>
+      <image stretch="1.250" height="1560" clickmode="1" popoutscaling="100" tilt="-13.752" fov="9.196" pan="6.605" handcursor="1" roty="-2.634" width="1740" id="Element08" rotx="77.409" rotz="-0.463" popbackmode="0" hidepinned="1">
+        <source url="media/WhatsApp Image 2025-02-02 at 14.52.16 1.jpeg"/>
+      </image>
+      <image stretch="1.573" height="1408" clickmode="1" popoutscaling="100" tilt="-13.948" fov="8.461" pan="19.352" handcursor="1" roty="8.463" width="2048" id="Element09" rotx="55.647" rotz="7.212" popbackmode="0" hidepinned="1">
+        <source url="media/WhatsApp Image 2025-02-02 at 14.52.16 2.jpeg"/>
+      </image>
+      <image stretch="0.501" height="1456" clickmode="1" popoutscaling="100" tilt="-15.517" fov="22.895" pan="104.311" handcursor="1" roty="48.142" width="2048" id="Element10" rotx="10.165" rotz="5.365" popbackmode="0" hidepinned="1">
+        <source url="media/WhatsApp Image 2025-02-02 at 14.52.17 2.jpeg"/>
+      </image>
+      <image stretch="1.563" height="1265" clickmode="1" popoutscaling="100" tilt="-16.308" fov="16.217" pan="78.610" handcursor="1" roty="-8.891" width="2048" id="Element11" rotx="66.096" rotz="-0.678" popbackmode="0" hidepinned="1">
+        <source url="media/WhatsApp Image 2025-02-02 at 14.52.17 1.jpeg"/>
+      </image>
+      <image stretch="1.927" height="1426" clickmode="1" popoutscaling="100" tilt="-14.184" fov="10.326" pan="60.084" handcursor="1" roty="-4.552" width="2048" id="Element12" rotx="66.881" rotz="-6.145" popbackmode="0" hidepinned="1">
+        <source url="media/WhatsApp Image 2025-02-02 at 14.52.17.jpeg"/>
+      </image>
+      <image stretch="0.728" height="1360" clickmode="1" popoutscaling="100" tilt="-11.860" fov="12.864" pan="43.482" handcursor="1" roty="-45.889" width="2048" id="Element13" rotx="74.021" rotz="-13.061" popbackmode="0" hidepinned="1">
+        <source url="media/WhatsApp Image 2025-02-02 at 14.52.16 3.jpeg"/>
+      </image>
+      <image stretch="0.921" height="1286" clickmode="1" popoutscaling="100" tilt="4.640" fov="11.092" pan="84.929" handcursor="1" roty="-34.898" width="1640" id="Element14" rotx="1.935" rotz="0.398" popbackmode="0" hidepinned="1">
+        <source url="media/WhatsApp Image 2025-02-02 at 15.08.44.jpeg"/>
+      </image>
+      <image stretch="1.385" height="1516" clickmode="1" popoutscaling="100" tilt="-0.031" fov="6.631" pan="72.425" handcursor="1" roty="-6.159" width="1907" id="Element15" rotx="44.727" rotz="0.054" popbackmode="0" hidepinned="1">
+        <source url="media/WhatsApp Image 2025-02-02 at 15.08.44 1.jpeg"/>
+      </image>
+      <image stretch="0.500" height="1294" clickmode="1" popoutscaling="100" tilt="4.264" fov="10.112" pan="61.445" handcursor="1" roty="-59.391" width="1683" id="Element16" rotx="5.505" rotz="6.715" popbackmode="0" hidepinned="1">
+        <source url="media/WhatsApp Image 2025-02-02 at 15.08.45.jpeg"/>
+      </image>
+      <image stretch="1.756" height="2048" clickmode="1" popoutscaling="100" tilt="9.697" fov="9.739" pan="-71.688" handcursor="1" roty="-1.051" width="1633" id="Element17" rotx="52.818" rotz="-3.412" popbackmode="0" hidepinned="1">
+        <source url="media/WhatsApp Image 2025-02-02 at 15.25.07.jpeg"/>
+      </image>
+      <image stretch="1.377" height="2048" clickmode="1" popoutscaling="100" tilt="4.693" fov="8.874" pan="-98.817" handcursor="1" roty="0.335" width="1455" id="Element18" rotx="-41.758" rotz="-0.587" popbackmode="0" hidepinned="1">
+        <source url="media/WhatsApp Image 2025-02-02 at 15.25.06.jpeg"/>
+      </image>
+    </media>
+    <transition type="crossdissolve" zoomafteroutfov="40" zoomafterinfov="140" zoomin="0" zoomout="0" enabled="1" zoomspeed="2" delay="none" softedge="0" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" blendtime="1"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" contextfullscreen="1" speedwheel="1" sensitivity="8" invertwheel="0" zoomcentercursor="1" rubberband="0" contextvr="1" contextprojections="0" hideabout="0" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" invertcontrol="1" simulatemass="1"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" description="" tags="" author="" title="" copyright=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+  <map type="web" mapprovider="openstreetmap" mapmaxzoom="18" mapstyle="streets" googlecustomstylecode="" id="ASM_Map" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" title="" index="0"/>
+  <map type="web" mapprovider="openstreetmap" mapmaxzoom="18" mapstyle="streets" googlecustomstylecode="" id="Map01" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" title="" index="1"/>
+  <map height="831" type="file" zoomlevels="1" bgcolor="rgba(255, 255, 255, 1)" transparent="0" tileformat="jpg" crispedges="0" width="970" id="FloorPlan01" floorplannorth="0" title="" index="2"/>
+  <map height="831" type="file" zoomlevels="1" bgcolor="rgba(255, 255, 255, 1)" transparent="0" tileformat="jpg" crispedges="0" width="970" id="FloorPlan02" floorplannorth="0" title="" index="3"/>
+</tour>
