@@ -1,7 +1,4 @@
-// Garden Gnome Software - Skin
-// Pano2VR 7.1.6/20966
-// Filename: ASM_Proje.ggsk
-// Generated 2025-03-04T12:43:18
+
 
 function pano2vrSkin(player,base) {
 	player.addVariable('asm_compass', 2, false, { ignoreInState: 1  });
